@@ -1,0 +1,99 @@
+// Payments
+#payments {
+  text-align: center;
+
+  .item {
+    font: {
+      size: 1.1875rem;
+      weight: 700;
+    }
+  }
+
+  .item-img {
+    height: 125px;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    font-weight: 700;
+    color: #3f3680;
+  }
+}
+
+.payments-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 880px;
+  margin: 2rem auto;
+  background-color: #f8ead2;
+  color: #3f3680;
+  line-height: 1.4;
+
+  @include media-breakpoint-down(xs) {
+    flex-direction: column;
+
+    .divider {
+      display: none;
+    }
+  }
+
+  .amount-container {
+    display: flex;
+    align-items: center;
+    font-size: 5rem;
+
+    @include media-breakpoint-down(xs) {
+      border-bottom: .625rem solid currentColor;
+    }
+
+    @include media-breakpoint-up(sm) {
+      font-size: 6rem;
+    }
+
+    img {
+      @include size(auto, .9375em);
+      margin: 0 .5rem;
+    }
+  }
+
+  .amount {
+    font-weight: 700;
+  }
+
+  .dau-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: .5rem;
+
+    @include media-breakpoint-down(xs) {
+      margin: 1.5rem 0;
+    }
+  }
+
+  .dau {
+    color: #3e3e3e;
+    font: {
+      size: 1.0625rem;
+      weight: 600;
+    }
+    text-align: left;
+  }
+
+  .number {
+    display: flex;
+    align-items: center;
+    color: color("dodger-blue");
+    font: {
+      size: 3.875rem;
+      weight: 600;
+    }
+    line-height: .9;
+
+    img {
+      @include size(auto, .8226em);
+      margin-left: .5rem;
+    }
+  }
+}

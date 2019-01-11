@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c6001e;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-530.66 -1069.2)">
+      <rect class="a" x="530.66" y="1069.2" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Switzerland</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="18.72 13.96 26.24 13.96 26.24 6.45 32.69 6.45 32.69 13.96 40.2 13.96 40.2 20.41 32.69 20.41 32.69 27.93 26.24 27.93 26.24 20.41 18.72 20.41 18.72 13.96"/>
+  </g>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 56.32286 56.32286">
+  <defs>
+    <style>
+      .a {
+        isolation: isolate;
+      }
+
+      .b, .f {
+        fill: #fff;
+      }
+
+      .b {
+        stroke: #9b9b9b;
+        stroke-miterlimit: 10;
+        stroke-width: 0.75px;
+      }
+
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #e20613;
+      }
+
+      .e {
+        fill: #0069b3;
+      }
+
+      .g {
+        opacity: 0.2;
+        fill: url(#a);
+      }
+
+      .h {
+        mix-blend-mode: lighten;
+        fill: url(#c);
+      }
+    </style>
+    <radialGradient id="a" cx="28.16143" cy="28.16143" r="27.78643" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1d1b" stop-opacity="0"/>
+      <stop offset="0.57673" stop-color="#1d1d1b" stop-opacity="0.06461"/>
+      <stop offset="0.78443" stop-color="#1d1d1b" stop-opacity="0.29865"/>
+      <stop offset="0.93195" stop-color="#1d1d1b" stop-opacity="0.70415"/>
+      <stop offset="1" stop-color="#1d1d1b"/>
+    </radialGradient>
+    <radialGradient id="c" cx="28.16143" cy="38.35605" r="39.38579" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.37264" stop-color="#fff" stop-opacity="0.00735"/>
+      <stop offset="0.50689" stop-color="#fff" stop-opacity="0.03399"/>
+      <stop offset="0.60258" stop-color="#fff" stop-opacity="0.08036"/>
+      <stop offset="0.67999" stop-color="#fff" stop-opacity="0.14667"/>
+      <stop offset="0.74626" stop-color="#fff" stop-opacity="0.23299"/>
+      <stop offset="0.80498" stop-color="#fff" stop-opacity="0.33967"/>
+      <stop offset="0.8581" stop-color="#fff" stop-opacity="0.46688"/>
+      <stop offset="0.90691" stop-color="#fff" stop-opacity="0.61488"/>
+      <stop offset="0.95232" stop-color="#fff" stop-opacity="0.78417"/>
+      <stop offset="0.99262" stop-color="#fff" stop-opacity="0.96381"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <title>Ru</title>
+  <g class="a">
+    <g>
+      <circle class="b" cx="28.16143" cy="28.16143" r="27.78643"/>
+      <g>
+        <g>
+          <path class="c" d="M54.285,37.64681a27.78644,27.78644,0,1,0-52.24707,0Z"/>
+          <path class="d" d="M28.16143,55.94784A27.79623,27.79623,0,0,0,54.285,37.64681H2.0379A27.79623,27.79623,0,0,0,28.16143,55.94784Z"/>
+        </g>
+        <g>
+          <path class="c" d="M28.16143.375A27.79636,27.79636,0,0,0,2.03985,18.67031H54.283A27.79636,27.79636,0,0,0,28.16143.375Z"/>
+          <path class="c" d="M2.0379,37.64681a27.79534,27.79534,0,0,0,52.24707,0Z"/>
+          <path class="e" d="M55.94787,28.16146A27.73135,27.73135,0,0,0,54.283,18.67031H2.03985a27.88526,27.88526,0,0,0-.002,18.9765H54.285A27.73166,27.73166,0,0,0,55.94787,28.16146Z"/>
+        </g>
+        <g>
+          <path class="c" d="M2.03985,18.67031a27.78644,27.78644,0,1,0,52.24316,0Z"/>
+          <path class="f" d="M28.16143.375A27.79636,27.79636,0,0,0,2.03985,18.67031H54.283A27.79636,27.79636,0,0,0,28.16143.375Z"/>
+        </g>
+      </g>
+      <circle class="g" cx="28.16143" cy="28.16143" r="27.78643"/>
+      <circle class="g" cx="28.16143" cy="28.16143" r="27.78643"/>
+      <circle class="h" cx="28.16143" cy="28.16145" r="27.78642"/>
+    </g>
+  </g>
+</svg>

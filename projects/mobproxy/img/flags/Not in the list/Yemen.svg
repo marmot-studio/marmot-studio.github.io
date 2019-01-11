@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #bc0030;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-881.56 -1187.7)">
+      <rect class="a" x="881.56" y="1187.7" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Yemen</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect y="22.92" width="58.92" height="11.46"/>
+  </g>
+</svg>

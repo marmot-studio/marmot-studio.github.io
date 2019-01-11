@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #223e84;
+      }
+
+      .d {
+        fill: #f4d75d;
+      }
+
+      .e {
+        fill: #c41d32;
+      }
+
+      .f {
+        fill: #fff;
+      }
+
+      .g {
+        fill: #337b40;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-316.38 -1009.91)">
+      <rect class="a" x="316.38" y="1009.91" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Seychelles</title>
+  <g class="b">
+    <polygon class="c" points="0 0 0 34.37 21.18 0 0 0"/>
+    <polygon class="d" points="21.18 0 0 34.37 42.37 0 21.18 0"/>
+    <polygon class="e" points="42.37 0 0 34.37 58.92 13.13 58.92 0 42.37 0"/>
+    <polygon class="f" points="0 34.37 58.92 23.75 58.92 13.13 0 34.37"/>
+    <polygon class="g" points="0 34.37 58.92 34.37 58.92 23.75 0 34.37"/>
+  </g>
+</svg>

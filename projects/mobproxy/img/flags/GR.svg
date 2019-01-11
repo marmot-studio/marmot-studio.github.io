@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #16007e;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-316.64 -371.66)">
+      <rect class="a" x="316.64" y="371.66" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Greece</title>
+  <g class="b">
+    <rect class="c" y="30.55" width="58.92" height="3.82"/>
+    <rect class="d" y="26.73" width="58.92" height="3.82"/>
+    <rect class="c" y="22.91" width="58.92" height="3.82"/>
+    <rect class="d" y="19.1" width="58.92" height="3.82"/>
+    <rect class="c" y="15.28" width="58.92" height="3.82"/>
+    <rect class="d" y="11.46" width="58.92" height="3.82"/>
+    <rect class="c" y="7.64" width="58.92" height="3.82"/>
+    <rect class="d" y="3.82" width="58.92" height="3.82"/>
+    <rect class="c" width="58.92" height="3.82"/>
+    <rect class="c" width="19.1" height="19.1"/>
+    <rect class="d" y="7.64" width="19.1" height="3.82"/>
+    <rect class="d" x="7.64" width="3.82" height="19.1"/>
+  </g>
+</svg>

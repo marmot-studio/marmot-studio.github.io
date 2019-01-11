@@ -1,0 +1,71 @@
+[{
+  "": {
+    "country": {
+      "day": "20.00 $",
+      "week": "104.00 $",
+      "month": "400.00 $"
+    },
+    "connection_wifi": "No extra charge",
+    "connection_mobile": {
+      "day": "20.00 $ (Day)",
+      "week": "136.00 $ (Week)",
+      "month": "320.00 $ (Month)"
+    },
+    "piece_wifi": "0.04 $",
+    "piece_mobile": "7.00 $",
+    "free_count_mobile": 10,
+    "free_count_wifi": 300,
+    "node_access": {
+      "day": "50.00 $ (Day)",
+      "week": "30.00 $ (Week)",
+      "month": "14.00 $ (Month)"
+    }
+  },
+  "0": {
+    "country": {
+      "day": "40.00 $",
+      "week": "240.00 $",
+      "month": "800.00 $"
+    },
+    "connection_mobile": {
+      "month": "1 200.00 $ (Month)",
+      "day": "40.00 $ (Day)",
+      "week": "320.00 $ (Week)"
+    }
+  },
+  "234": {
+    "connection_wifi": {
+      "day": "4.00 $ (Day)",
+      "week": "21.00 $ (Week)",
+      "month": "80.00 $ (Month)"
+    },
+    "piece_wifi": "1.50 $",
+    "free_count_wifi": 150
+  }
+},
+{
+  "": {
+    "mobile": {
+      "day": 10,
+      "week": 10,
+      "month": 10,
+      "hour": 10
+    },
+    "wifi": {
+      "day": 300,
+      "week": 300,
+      "month": 300,
+      "hour": 300
+    }
+  },
+  "234": {
+    "wifi": {
+      "hour": 150,
+      "day": 150,
+      "week": 150,
+      "month": 150
+    }
+  }
+}]
+
+

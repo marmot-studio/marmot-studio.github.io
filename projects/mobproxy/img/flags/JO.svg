@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #337b40;
+      }
+
+      .e {
+        fill: #bc0030;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-34.12 -545.24)">
+      <rect class="a" x="34.12" y="545.24" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Jordan</title>
+  <g class="b">
+    <rect width="58.92" height="34.37"/>
+    <rect class="c" y="11.46" width="58.92" height="11.46"/>
+    <rect class="d" y="22.92" width="58.92" height="11.46"/>
+    <polygon class="e" points="0 0 0 34.37 34.37 17.19 0 0"/>
+    <polygon class="c" points="10.62 14.73 10.09 16.08 8.7 15.66 9.42 16.91 8.23 17.73 9.66 17.95 9.56 19.4 10.62 18.42 11.69 19.4 11.58 17.95 13.02 17.73 11.82 16.91 12.54 15.66 11.15 16.08 10.62 14.73"/>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #66cafc;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #ea0020;
+      }
+
+      .f {
+        fill: #3e9a13;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-810.08 -952.31)">
+      <rect class="a" x="810.08" y="952.31" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Sakha_Republic</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="25.89"/>
+    <rect class="d" y="25.89" width="58.92" height="2.06"/>
+    <rect class="e" y="27.95" width="58.92" height="2.06"/>
+    <rect class="f" y="30.02" width="58.92" height="4.36"/>
+    <g class="b">
+      <path class="d" d="M839.54,959a6.3,6.3,0,1,1-6.3,6.3,6.3,6.3,0,0,1,6.3-6.3" transform="translate(-810.08 -952.31)"/>
+    </g>
+  </g>
+</svg>

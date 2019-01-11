@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #be003a;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-387.33 -371.66)">
+      <rect class="a" x="387.33" y="371.66" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Greenland</title>
+  <g class="b">
+    <rect class="c" y="17.19" width="58.92" height="17.19"/>
+    <rect class="d" width="58.92" height="17.19"/>
+    <g class="b">
+      <path class="c" d="M395.92,388.85a11.46,11.46,0,1,1,22.91,0H395.92Z" transform="translate(-387.33 -371.66)"/>
+      <path class="d" d="M395.92,388.85a11.46,11.46,0,1,0,22.91,0H395.92Z" transform="translate(-387.33 -371.66)"/>
+    </g>
+  </g>
+</svg>

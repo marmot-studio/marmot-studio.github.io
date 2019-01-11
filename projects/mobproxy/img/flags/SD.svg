@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c0003b;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #2f742e;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-247.91 -1069.2)">
+      <rect class="a" x="247.91" y="1069.2" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Sudan</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect y="22.92" width="58.92" height="11.46"/>
+    <polygon class="e" points="0 0 0 34.37 22.92 17.19 0 0"/>
+  </g>
+</svg>

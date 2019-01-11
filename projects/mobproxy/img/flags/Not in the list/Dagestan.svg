@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c6001e;
+      }
+
+      .d {
+        fill: #5996fc;
+      }
+
+      .e {
+        fill: #3c9242;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-528.71 -255.23)">
+      <rect class="a" x="528.71" y="255.23" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Dagestan</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" width="58.92" height="22.92"/>
+    <rect class="e" width="58.92" height="11.46"/>
+  </g>
+</svg>

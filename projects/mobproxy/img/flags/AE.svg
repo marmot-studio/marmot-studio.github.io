@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #bc0030;
+      }
+
+      .d {
+        fill: #3f9b13;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1092.84 -1128.18)">
+      <rect class="a" x="1092.84" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>United_Arab_Emirates</title>
+  <g class="b">
+    <rect class="c" width="17.19" height="34.37"/>
+    <rect class="d" x="17.19" width="41.74" height="11.46"/>
+    <rect class="e" x="17.19" y="11.46" width="41.74" height="11.46"/>
+    <rect x="17.19" y="22.92" width="41.74" height="11.46"/>
+  </g>
+</svg>

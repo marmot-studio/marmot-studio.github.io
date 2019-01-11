@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59.1 34.55">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #272425;
+      }
+
+      .e {
+        fill: #5794fc;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-597.72 -28.91)">
+      <rect class="a" x="597.81" y="28.99" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Altai_Republic</title>
+  <g class="b">
+    <g>
+      <rect class="c" x="0.09" y="0.09" width="58.93" height="34.37"/>
+      <path class="d" d="M656.82,63.46h-59.1V28.91h59.1V63.46h0Zm-58.92-.18h58.75V29.08H597.9v34.2h0Z" transform="translate(-597.72 -28.91)"/>
+    </g>
+    <rect class="e" x="0.09" y="23.12" width="58.93" height="1.37"/>
+    <rect class="e" x="0.09" y="25.87" width="58.93" height="8.59"/>
+  </g>
+</svg>

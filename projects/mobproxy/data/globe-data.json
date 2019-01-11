@@ -1,0 +1,611 @@
+[
+  {
+    "country": "Afghanistan",
+    "lat": 34.516666666666666,
+    "lon": 69.183333,
+    "wifi": 0,
+    "mobile": 5
+  },
+  {
+    "country": "Algeria",
+    "lat": 36.75,
+    "lon": 3.05,
+    "wifi": 0,
+    "mobile": 2
+  },
+  {
+    "country": "Argentina",
+    "lat": -34.583333333333336,
+    "lon": -58.666667,
+    "wifi": 9,
+    "mobile": 12
+  },
+  {
+    "country": "Australia",
+    "lat": -35.266666666666666,
+    "lon": 149.133333,
+    "wifi": 4,
+    "mobile": 3
+  },
+  {
+    "country": "Austria",
+    "lat": 48.2,
+    "lon": 16.366667,
+    "wifi": 2,
+    "mobile": 0
+  },
+  {
+    "country": "Azerbaijan",
+    "lat": 40.38333333333333,
+    "lon": 49.866667,
+    "wifi": 7,
+    "mobile": 17
+  },
+  {
+    "country": "Bahrain",
+    "lat": 26.233333333333334,
+    "lon": 50.566667,
+    "wifi": 8,
+    "mobile": 20
+  },
+  {
+    "country": "Bangladesh",
+    "lat": 23.716666666666665,
+    "lon": 90.4,
+    "wifi": 54,
+    "mobile": 1038
+  },
+  {
+    "country": "Belarus",
+    "lat": 53.9,
+    "lon": 27.566667,
+    "wifi": 0,
+    "mobile": 2
+  },
+  {
+    "country": "Belgium",
+    "lat": 50.833333333333336,
+    "lon": 4.333333,
+    "wifi": 6,
+    "mobile": 0
+  },
+  {
+    "country": "Bhutan",
+    "lat": 27.466666666666665,
+    "lon": 89.633333,
+    "wifi": 0,
+    "mobile": 12
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.86666666666667,
+    "lon": 18.416667,
+    "wifi": 2,
+    "mobile": 0
+  },
+  {
+    "country": "Brazil",
+    "lat": -15.783333333333333,
+    "lon": -47.916667,
+    "wifi": 435,
+    "mobile": 246
+  },
+  {
+    "country": "Cambodia",
+    "lat": 11.55,
+    "lon": 104.916667,
+    "wifi": 3,
+    "mobile": 8
+  },
+  {
+    "country": "Canada",
+    "lat": 45.416666666666664,
+    "lon": -75.7,
+    "wifi": 9,
+    "mobile": 5
+  },
+  {
+    "country": "China",
+    "lat": 39.916666666666664,
+    "lon": 116.383333,
+    "wifi": 4,
+    "mobile": 1
+  },
+  {
+    "country": "Colombia",
+    "lat": 4.6,
+    "lon": -74.083333,
+    "wifi": 2,
+    "mobile": 2
+  },
+  {
+    "country": "Congo, the Democratic Republic of the",
+    "lat": -4.316666666666666,
+    "lon": 15.3,
+    "wifi": 0,
+    "mobile": 3
+  },
+  {
+    "country": "Ecuador",
+    "lat": -0.21666666666666667,
+    "lon": -78.5,
+    "wifi": 3,
+    "mobile": 0
+  },
+  {
+    "country": "Egypt",
+    "lat": 30.05,
+    "lon": 31.25,
+    "wifi": 1,
+    "mobile": 18
+  },
+  {
+    "country": "Finland",
+    "lat": 60.166666666666664,
+    "lon": 24.933333,
+    "wifi": 2,
+    "mobile": 0
+  },
+  {
+    "country": "France",
+    "lat": 48.86666666666667,
+    "lon": 2.333333,
+    "wifi": 6,
+    "mobile": 1
+  },
+  {
+    "country": "Georgia",
+    "lat": 41.68333333333333,
+    "lon": 44.833333,
+    "wifi": 3,
+    "mobile": 1
+  },
+  {
+    "country": "Germany",
+    "lat": 52.516666666666666,
+    "lon": 13.4,
+    "wifi": 8,
+    "mobile": 3
+  },
+  {
+    "country": "Ghana",
+    "lat": 5.55,
+    "lon": -0.216667,
+    "wifi": 0,
+    "mobile": 2
+  },
+  {
+    "country": "Greece",
+    "lat": 37.983333333333334,
+    "lon": 23.733333,
+    "wifi": 1,
+    "mobile": 2
+  },
+  {
+    "country": "Guatemala",
+    "lat": 14.616666666666667,
+    "lon": -90.516667,
+    "wifi": 1,
+    "mobile": 1
+  },
+  {
+    "country": "India",
+    "lat": 28.6,
+    "lon": 77.2,
+    "wifi": 7231,
+    "mobile": 76192
+  },
+  {
+    "country": "Indonesia",
+    "lat": -6.166666666666667,
+    "lon": 106.816667,
+    "wifi": 1320,
+    "mobile": 7363
+  },
+  {
+    "country": "Iran, Islamic Republic of",
+    "lat": 35.7,
+    "lon": 51.416667,
+    "wifi": 4,
+    "mobile": 9
+  },
+  {
+    "country": "Iraq",
+    "lat": 33.333333333333336,
+    "lon": 44.4,
+    "wifi": 6,
+    "mobile": 19
+  },
+  {
+    "country": "Israel",
+    "lat": 31.766666666666666,
+    "lon": 35.233333,
+    "wifi": 1,
+    "mobile": 2
+  },
+  {
+    "country": "Italy",
+    "lat": 41.9,
+    "lon": 12.483333,
+    "wifi": 9,
+    "mobile": 6
+  },
+  {
+    "country": "Jamaica",
+    "lat": 18,
+    "lon": -76.8,
+    "wifi": 2,
+    "mobile": 0
+  },
+  {
+    "country": "Japan",
+    "lat": 35.68333333333333,
+    "lon": 139.75,
+    "wifi": 2,
+    "mobile": 0
+  },
+  {
+    "country": "Jordan",
+    "lat": 31.95,
+    "lon": 35.933333,
+    "wifi": 1,
+    "mobile": 3
+  },
+  {
+    "country": "Kazakhstan",
+    "lat": 51.166666666666664,
+    "lon": 71.416667,
+    "wifi": 22,
+    "mobile": 5
+  },
+  {
+    "country": "Kenya",
+    "lat": -1.2833333333333332,
+    "lon": 36.816667,
+    "wifi": 6,
+    "mobile": 61
+  },
+  {
+    "country": "Korea, Republic of",
+    "lat": 37.55,
+    "lon": 126.983333,
+    "wifi": 6,
+    "mobile": 1
+  },
+  {
+    "country": "Kuwait",
+    "lat": 29.366666666666667,
+    "lon": 47.966667,
+    "wifi": 17,
+    "mobile": 109
+  },
+  {
+    "country": "Kyrgyzstan",
+    "lat": 42.86666666666667,
+    "lon": 74.6,
+    "wifi": 1,
+    "mobile": 4
+  },
+  {
+    "country": "Liberia",
+    "lat": 6.3,
+    "lon": -10.8,
+    "wifi": 0,
+    "mobile": 3
+  },
+  {
+    "country": "Malaysia",
+    "lat": 3.1666666666666665,
+    "lon": 101.7,
+    "wifi": 750,
+    "mobile": 2087
+  },
+  {
+    "country": "Mauritius",
+    "lat": -20.15,
+    "lon": 57.483333,
+    "wifi": 3,
+    "mobile": 0
+  },
+  {
+    "country": "Mexico",
+    "lat": 19.433333333333334,
+    "lon": -99.133333,
+    "wifi": 2686,
+    "mobile": 633
+  },
+  {
+    "country": "Moldova, Republic of",
+    "lat": 47,
+    "lon": 28.85,
+    "wifi": 2,
+    "mobile": 0
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.016666666666666,
+    "lon": -6.816667,
+    "wifi": 2,
+    "mobile": 2
+  },
+  {
+    "country": "Mozambique",
+    "lat": -25.95,
+    "lon": 32.583333,
+    "wifi": 0,
+    "mobile": 4
+  },
+  {
+    "country": "Myanmar",
+    "lat": 16.8,
+    "lon": 96.15,
+    "wifi": 3,
+    "mobile": 15
+  },
+  {
+    "country": "Namibia",
+    "lat": -22.566666666666666,
+    "lon": 17.083333,
+    "wifi": 2,
+    "mobile": 1
+  },
+  {
+    "country": "Nepal",
+    "lat": 27.716666666666665,
+    "lon": 85.316667,
+    "wifi": 2,
+    "mobile": 10
+  },
+  {
+    "country": "New Zealand",
+    "lat": -41.3,
+    "lon": 174.783333,
+    "wifi": 1,
+    "mobile": 1
+  },
+  {
+    "country": "Nigeria",
+    "lat": 9.083333333333334,
+    "lon": 7.533333,
+    "wifi": 2,
+    "mobile": 31
+  },
+  {
+    "country": "Oman",
+    "lat": 23.616666666666667,
+    "lon": 58.583333,
+    "wifi": 34,
+    "mobile": 27
+  },
+  {
+    "country": "Pakistan",
+    "lat": 33.68333333333333,
+    "lon": 73.05,
+    "wifi": 14,
+    "mobile": 18
+  },
+  {
+    "country": "Peru",
+    "lat": -12.05,
+    "lon": -77.05,
+    "wifi": 1,
+    "mobile": 2
+  },
+  {
+    "country": "Philippines",
+    "lat": 14.6,
+    "lon": 120.966667,
+    "wifi": 394,
+    "mobile": 35
+  },
+  {
+    "country": "Poland",
+    "lat": 52.25,
+    "lon": 21,
+    "wifi": 5,
+    "mobile": 9
+  },
+  {
+    "country": "Portugal",
+    "lat": 38.71666666666667,
+    "lon": -9.133333,
+    "wifi": 4,
+    "mobile": 1
+  },
+  {
+    "country": "Qatar",
+    "lat": 25.283333333333335,
+    "lon": 51.533333,
+    "wifi": 57,
+    "mobile": 23
+  },
+  {
+    "country": "Romania",
+    "lat": 44.43333333333333,
+    "lon": 26.1,
+    "wifi": 4,
+    "mobile": 1
+  },
+  {
+    "country": "Russian Federation",
+    "lat": 55.75,
+    "lon": 37.6,
+    "wifi": 160,
+    "mobile": 413
+  },
+  {
+    "country": "Rwanda",
+    "lat": -1.95,
+    "lon": 30.05,
+    "wifi": 2,
+    "mobile": 1
+  },
+  {
+    "country": "Saudi Arabia",
+    "lat": 24.65,
+    "lon": 46.7,
+    "wifi": 166,
+    "mobile": 80
+  },
+  {
+    "country": "Senegal",
+    "lat": 14.733333333333333,
+    "lon": -17.633333,
+    "wifi": 1,
+    "mobile": 1
+  },
+  {
+    "country": "Singapore",
+    "lat": 1.2833333333333332,
+    "lon": 103.85,
+    "wifi": 10,
+    "mobile": 16
+  },
+  {
+    "country": "South Africa",
+    "lat": -25.7,
+    "lon": 28.216667,
+    "wifi": 800,
+    "mobile": 5566
+  },
+  {
+    "country": "Spain",
+    "lat": 40.4,
+    "lon": -3.683333,
+    "wifi": 44,
+    "mobile": 40
+  },
+  {
+    "country": "Sri Lanka",
+    "lat": 6.916666666666667,
+    "lon": 79.833333,
+    "wifi": 1,
+    "mobile": 3
+  },
+  {
+    "country": "Sudan",
+    "lat": 15.6,
+    "lon": 32.533333,
+    "wifi": 1,
+    "mobile": 5
+  },
+  {
+    "country": "Swaziland",
+    "lat": -26.316666666666666,
+    "lon": 31.133333,
+    "wifi": 0,
+    "mobile": 3
+  },
+  {
+    "country": "Sweden",
+    "lat": 59.333333333333336,
+    "lon": 18.05,
+    "wifi": 2,
+    "mobile": 0
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "lat": 33.5,
+    "lon": 36.3,
+    "wifi": 1,
+    "mobile": 5
+  },
+  {
+    "country": "Taiwan, Province of China",
+    "lat": 25.033333333333335,
+    "lon": 121.516667,
+    "wifi": 2,
+    "mobile": 7
+  },
+  {
+    "country": "Tajikistan",
+    "lat": 38.55,
+    "lon": 68.766667,
+    "wifi": 0,
+    "mobile": 7
+  },
+  {
+    "country": "Thailand",
+    "lat": 13.75,
+    "lon": 100.516667,
+    "wifi": 1068,
+    "mobile": 1927
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "lat": 10.65,
+    "lon": -61.516667,
+    "wifi": 2,
+    "mobile": 0
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.93333333333333,
+    "lon": 32.866667,
+    "wifi": 154,
+    "mobile": 489
+  },
+  {
+    "country": "Uganda",
+    "lat": 0.31666666666666665,
+    "lon": 32.55,
+    "wifi": 1,
+    "mobile": 2
+  },
+  {
+    "country": "Ukraine",
+    "lat": 50.43333333333333,
+    "lon": 30.516667,
+    "wifi": 26,
+    "mobile": 22
+  },
+  {
+    "country": "United Arab Emirates",
+    "lat": 24.466666666666665,
+    "lon": 54.366667,
+    "wifi": 298,
+    "mobile": 56
+  },
+  {
+    "country": "United Kingdom",
+    "lat": 51.5,
+    "lon": -0.083333,
+    "wifi": 10,
+    "mobile": 4
+  },
+  {
+    "country": "United States",
+    "lat": 38.88,
+    "lon": -77.04,
+    "wifi": 4,
+    "mobile": 7
+  },
+  {
+    "country": "Uzbekistan",
+    "lat": 41.31666666666667,
+    "lon": 69.25,
+    "wifi": 5,
+    "mobile": 2
+  },
+  {
+    "country": "Viet Nam",
+    "lat": 21.033333333333335,
+    "lon": 105.85,
+    "wifi": 56,
+    "mobile": 1
+  },
+  {
+    "country": "Zambia",
+    "lat": -15.416666666666666,
+    "lon": 28.283333,
+    "wifi": 0,
+    "mobile": 4
+  },
+  {
+    "country": "Zimbabwe",
+    "lat": -17.816666666666666,
+    "lon": 31.033333,
+    "wifi": 3,
+    "mobile": 0
+  }
+]

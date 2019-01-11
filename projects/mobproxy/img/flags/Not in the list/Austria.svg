@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c6001e;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-245.95 -85.01)">
+      <rect class="a" x="245.95" y="85.01" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Austria</title>
+  <g class="b">
+    <rect class="c" width="58.93" height="11.46"/>
+    <rect class="c" y="22.91" width="58.93" height="11.46"/>
+    <rect class="d" y="11.46" width="58.93" height="11.46"/>
+  </g>
+</svg>

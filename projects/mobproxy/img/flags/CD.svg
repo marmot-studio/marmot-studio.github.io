@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #3d9546;
+      }
+
+      .d {
+        fill: #f4de53;
+      }
+
+      .e {
+        fill: #c9152c;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1021.95 -197.48)">
+      <rect class="a" x="1021.95" y="197.48" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Republic_of_the_Congo</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="39.28 0 0 34.37 58.92 34.37 58.92 0 39.28 0"/>
+    <polygon class="e" points="58.92 0 19.64 34.37 58.92 34.37 58.92 0"/>
+  </g>
+</svg>

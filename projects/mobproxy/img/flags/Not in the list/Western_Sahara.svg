@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #348110;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #ba0019;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-810.87 -1187.7)">
+      <rect class="a" x="810.87" y="1187.7" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Western_Sahara</title>
+  <g class="b">
+    <rect width="58.92" height="11.46"/>
+    <rect class="c" y="22.92" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <polygon class="e" points="0 0 0 0.18 0 34.37 22.91 17.23 0 0"/>
+    <g class="b">
+      <path class="e" d="M845.24,1200.32a4.57,4.57,0,1,1-4.57,4.57,4.57,4.57,0,0,1,4.57-4.57" transform="translate(-810.87 -1187.7)"/>
+      <path class="d" d="M847,1200.32a4.57,4.57,0,1,1-4.57,4.57,4.57,4.57,0,0,1,4.57-4.57" transform="translate(-810.87 -1187.7)"/>
+      <polygon class="e" points="33.14 19.96 35.1 18.56 37.03 19.98 36.31 17.69 38.26 16.29 35.86 16.27 35.12 13.98 34.36 16.26 31.96 16.25 33.89 17.68 33.14 19.96"/>
+    </g>
+  </g>
+</svg>

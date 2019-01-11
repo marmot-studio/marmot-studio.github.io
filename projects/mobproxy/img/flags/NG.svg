@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #388752;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-810.08 -836.22)">
+      <rect class="a" x="810.08" y="836.22" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Nigeria</title>
+  <g class="b">
+    <rect class="c" width="58.93" height="34.37"/>
+    <rect class="d" x="19.64" width="19.64" height="34.37"/>
+  </g>
+</svg>

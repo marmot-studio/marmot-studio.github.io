@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #2a4b9e;
+      }
+
+      .d {
+        fill: #d90031;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-246.19 -605.15)">
+      <rect class="a" x="246.19" y="605.15" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>North_Korea</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="5.73"/>
+    <rect class="c" y="28.64" width="58.92" height="5.73"/>
+    <rect class="d" y="6.68" width="58.92" height="21"/>
+    <rect class="e" y="5.73" width="58.92" height="0.96"/>
+    <rect class="e" y="27.69" width="58.92" height="0.96"/>
+    <g class="b">
+      <path class="e" d="M269.11,614.7a7.64,7.64,0,1,1-7.64,7.64,7.64,7.64,0,0,1,7.64-7.64" transform="translate(-246.19 -605.15)"/>
+      <polygon class="d" points="22.91 9.79 24.58 14.9 29.95 14.9 25.6 18.06 27.26 23.17 22.91 20.01 18.57 23.17 20.23 18.06 15.88 14.9 21.25 14.9 22.91 9.79"/>
+    </g>
+  </g>
+</svg>

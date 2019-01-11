@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #d80031;
+      }
+
+      .d {
+        fill: #292c2f;
+      }
+
+      .e, .g {
+        fill: #fff;
+      }
+
+      .f {
+        fill: #2f3c85;
+      }
+
+      .g {
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-951.46 -894.4)">
+      <rect class="a" x="951.46" y="894.4" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Puerto_Rico</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <path class="d" d="M951.46,918.47h0Zm0-13.78h0Z" transform="translate(-951.46 -894.4)"/>
+    <path class="e" d="M951.46,921.91h58.92V915H951.46v6.86Zm0-13.78h58.92v-6.86H951.46v6.86Z" transform="translate(-951.46 -894.4)"/>
+    <polygon class="f" points="0 0 0 34.37 29.71 17.21 0 0"/>
+    <polygon class="g" points="9.92 11.46 8.15 16.88 10.87 17.77 9.92 11.46"/>
+    <polygon class="g" points="9.92 11.46 11.64 16.88 8.93 17.77 9.92 11.46"/>
+    <polygon class="g" points="15.36 15.44 9.64 15.44 9.64 18.27 15.36 15.44"/>
+    <polygon class="g" points="15.36 15.44 10.7 18.76 9.04 16.49 15.36 15.44"/>
+    <polygon class="g" points="4.43 15.44 9.09 18.76 10.76 16.49 4.43 15.44"/>
+    <polygon class="g" points="4.43 15.44 10.2 15.44 10.2 18.27 4.43 15.44"/>
+    <polygon class="g" points="13.25 21.81 11.47 16.38 8.76 17.27 13.25 21.81"/>
+    <polygon class="g" points="13.25 21.81 8.65 18.43 10.31 16.16 13.25 21.81"/>
+    <polygon class="g" points="6.54 21.81 11.14 18.43 9.48 16.16 6.54 21.81"/>
+    <polygon class="g" points="6.54 21.81 8.31 16.38 11.03 17.27 6.54 21.81"/>
+  </g>
+</svg>

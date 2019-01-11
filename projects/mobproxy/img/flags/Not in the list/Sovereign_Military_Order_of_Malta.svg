@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c9002b;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-35.84 -1069.2)">
+      <rect class="a" x="35.84" y="1069.2" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Sovereign_Military_Order_of_Malta</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" x="26.6" width="5.73" height="34.37"/>
+    <rect class="d" y="14.32" width="58.92" height="5.73"/>
+  </g>
+</svg>

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "0",
+    "text": "Afghanistan",
+    "code": "AF"
+  },
+  {
+    "id": "1",
+    "text": "Algeria",
+    "code": "DZ"
+  },
+  {
+    "id": "2",
+    "text": "Angola",
+    "code": "AO"
+  },
+  {
+    "id": "3",
+    "text": "Argentina",
+    "code": "AR"
+  },
+  {
+    "id": "4",
+    "text": "Australia",
+    "code": "AU"
+  },
+  {
+    "id": "5",
+    "text": "Azerbaijan",
+    "code": "AZ"
+  },
+  {
+    "id": "6",
+    "text": "Bahrain",
+    "code": "BH"
+  },
+  {
+    "id": "7",
+    "text": "Bangladesh",
+    "code": "BD"
+  },
+  {
+    "id": "8",
+    "text": "Belgium",
+    "code": "BE"
+  },
+  {
+    "id": "9",
+    "text": "Bhutan",
+    "code": "BT"
+  },
+  {
+    "id": "10",
+    "text": "Brazil",
+    "code": "BR"
+  },
+  {
+    "id": "11",
+    "text": "Cambodia",
+    "code": "KH"
+  },
+  {
+    "id": "12",
+    "text": "Canada",
+    "code": "CA"
+  },
+  {
+    "id": "13",
+    "text": "China",
+    "code": "CN"
+  },
+  {
+    "id": "14",
+    "text": "Congo, Democratic Republic of the",
+    "code": "CD"
+  },
+  {
+    "id": "15",
+    "text": "Croatia",
+    "code": "HR"
+  },
+  {
+    "id": "16",
+    "text": "Cyprus",
+    "code": "CY"
+  },
+  {
+    "id": "17",
+    "text": "Ecuador",
+    "code": "EC"
+  },
+  {
+    "id": "18",
+    "text": "Egypt",
+    "code": "EG"
+  },
+  {
+    "id": "19",
+    "text": "Ethiopia",
+    "code": "ET"
+  },
+  {
+    "id": "20",
+    "text": "France",
+    "code": "FR"
+  },
+  {
+    "id": "21",
+    "text": "Georgia",
+    "code": "GE"
+  },
+  {
+    "id": "22",
+    "text": "Germany",
+    "code": "DE"
+  },
+  {
+    "id": "23",
+    "text": "Ghana",
+    "code": "GH"
+  },
+  {
+    "id": "24",
+    "text": "Greece",
+    "code": "GR"
+  },
+  {
+    "id": "25",
+    "text": "Hong Kong",
+    "code": "HK"
+  },
+  {
+    "id": "26",
+    "text": "India",
+    "code": "IN"
+  },
+  {
+    "id": "27",
+    "text": "Indonesia",
+    "code": "ID"
+  },
+  {
+    "id": "28",
+    "text": "Iran, Islamic Republic of",
+    "code": "IR"
+  },
+  {
+    "id": "29",
+    "text": "Iraq",
+    "code": "IQ"
+  },
+  {
+    "id": "30",
+    "text": "Italy",
+    "code": "IT"
+  },
+  {
+    "id": "31",
+    "text": "Jordan",
+    "code": "JO"
+  },
+  {
+    "id": "32",
+    "text": "Kazakhstan",
+    "code": "KZ"
+  },
+  {
+    "id": "33",
+    "text": "Kenya",
+    "code": "KE"
+  },
+  {
+    "id": "34",
+    "text": "Korea, Republic of",
+    "code": "KR"
+  },
+  {
+    "id": "35",
+    "text": "Kuwait",
+    "code": "KW"
+  },
+  {
+    "id": "36",
+    "text": "Kyrgyzstan",
+    "code": "KG"
+  },
+  {
+    "id": "37",
+    "text": "Lao People's Democratic Republic",
+    "code": "LA"
+  },
+  {
+    "id": "38",
+    "text": "Liberia",
+    "code": "LR"
+  },
+  {
+    "id": "39",
+    "text": "Macao",
+    "code": "MO"
+  },
+  {
+    "id": "40",
+    "text": "Malaysia",
+    "code": "MY"
+  },
+  {
+    "id": "41",
+    "text": "Maldives",
+    "code": "MV"
+  },
+  {
+    "id": "42",
+    "text": "Mexico",
+    "code": "MX"
+  },
+  {
+    "id": "43",
+    "text": "Moldova, Republic of",
+    "code": "MD"
+  },
+  {
+    "id": "44",
+    "text": "Mozambique",
+    "code": "MZ"
+  },
+  {
+    "id": "45",
+    "text": "Myanmar",
+    "code": "MM"
+  },
+  {
+    "id": "46",
+    "text": "Namibia",
+    "code": "NA"
+  },
+  {
+    "id": "47",
+    "text": "Nepal",
+    "code": "NP"
+  },
+  {
+    "id": "48",
+    "text": "Netherlands",
+    "code": "NL"
+  },
+  {
+    "id": "49",
+    "text": "New Zealand",
+    "code": "NZ"
+  },
+  {
+    "id": "50",
+    "text": "Nigeria",
+    "code": "NG"
+  },
+  {
+    "id": "51",
+    "text": "Oman",
+    "code": "OM"
+  },
+  {
+    "id": "52",
+    "text": "Pakistan",
+    "code": "PK"
+  },
+  {
+    "id": "53",
+    "text": "Peru",
+    "code": "PE"
+  },
+  {
+    "id": "54",
+    "text": "Philippines",
+    "code": "PH"
+  },
+  {
+    "id": "55",
+    "text": "Poland",
+    "code": "PL"
+  },
+  {
+    "id": "56",
+    "text": "Portugal",
+    "code": "PT"
+  },
+  {
+    "id": "57",
+    "text": "Qatar",
+    "code": "QA"
+  },
+  {
+    "id": "58",
+    "text": "Romania",
+    "code": "RO"
+  },
+  {
+    "id": "59",
+    "text": "Russian Federation",
+    "code": "RU"
+  },
+  {
+    "id": "60",
+    "text": "Saudi Arabia",
+    "code": "SA"
+  },
+  {
+    "id": "61",
+    "text": "Singapore",
+    "code": "SG"
+  },
+  {
+    "id": "62",
+    "text": "Somalia",
+    "code": "SO"
+  },
+  {
+    "id": "63",
+    "text": "South Africa",
+    "code": "ZA"
+  },
+  {
+    "id": "64",
+    "text": "Spain",
+    "code": "ES"
+  },
+  {
+    "id": "65",
+    "text": "Sri Lanka",
+    "code": "LK"
+  },
+  {
+    "id": "66",
+    "text": "Sudan",
+    "code": "SD"
+  },
+  {
+    "id": "67",
+    "text": "Syrian Arab Republic",
+    "code": "SY"
+  },
+  {
+    "id": "68",
+    "text": "Taiwan, Province of China",
+    "code": "TW"
+  },
+  {
+    "id": "69",
+    "text": "Tajikistan",
+    "code": "TJ"
+  },
+  {
+    "id": "70",
+    "text": "Thailand",
+    "code": "TH"
+  },
+  {
+    "id": "71",
+    "text": "Tunisia",
+    "code": "TN"
+  },
+  {
+    "id": "72",
+    "text": "Turkey",
+    "code": "TR"
+  },
+  {
+    "id": "73",
+    "text": "Turkmenistan",
+    "code": "TM"
+  },
+  {
+    "id": "74",
+    "text": "Uganda",
+    "code": "UG"
+  },
+  {
+    "id": "75",
+    "text": "Ukraine",
+    "code": "UA"
+  },
+  {
+    "id": "76",
+    "text": "United Arab Emirates",
+    "code": "AE"
+  },
+  {
+    "id": "77",
+    "text": "United Kingdom",
+    "code": "GB"
+  },
+  {
+    "id": "78",
+    "text": "United States",
+    "code": "US"
+  },
+  {
+    "id": "79",
+    "text": "Uzbekistan",
+    "code": "UZ"
+  },
+  {
+    "id": "80",
+    "text": "Vietnam",
+    "code": "VN"
+  },
+  {
+    "id": "81",
+    "text": "Zambia",
+    "code": "ZM"
+  }
+]

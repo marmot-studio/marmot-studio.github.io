@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 31.6" preserveAspectRatio="xMinYMid">
+  <defs>
+    <style>
+      .a {
+        fill: #51aed9;
+      }
+
+      .b {
+        fill: #fec327;
+      }
+
+      .c {
+        fill: #ff3939;
+      }
+
+      .d {
+        fill: #10dd76;
+      }
+    </style>
+  </defs>
+  <title>Google Play</title>
+  <g>
+    <polygon class="a" points="0 1.8 0 29.8 14 15.8 0 1.8"/>
+    <polygon class="b" points="20.2 11.8 16.1 15.8 20.2 19.9 27 15.8 20.2 11.8"/>
+    <polygon class="c" points="0.3 31.6 18.8 20.7 15.1 16.9 0.3 31.6"/>
+    <polygon class="d" points="18.8 11 0.3 0 15.1 14.8 18.8 11"/>
+  </g>
+</svg>

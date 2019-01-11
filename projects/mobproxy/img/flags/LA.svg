@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #bc0030;
+      }
+
+      .d {
+        fill: #192967;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-104.81 -663.03)">
+      <rect class="a" x="104.81" y="663.03" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Laos</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="8.59" width="58.92" height="17.19"/>
+    <g class="b">
+      <path class="e" d="M134.27,673.35a6.88,6.88,0,1,1-6.87,6.88,6.87,6.87,0,0,1,6.87-6.87" transform="translate(-104.81 -663.03)"/>
+    </g>
+  </g>
+</svg>

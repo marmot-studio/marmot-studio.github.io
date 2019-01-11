@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #1c2a7d;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #f4c533;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-316.37 -836.22)">
+      <rect class="a" x="316.37" y="836.22" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Nauru</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="15.02 30.08 14.28 27.11 12.15 29.31 12.99 26.37 10.06 27.21 12.25 25.09 9.29 24.35 12.25 23.61 10.06 21.48 12.99 22.32 12.15 19.39 14.28 21.58 15.02 18.62 15.76 21.58 17.89 19.39 17.05 22.32 19.98 21.48 17.79 23.61 20.75 24.35 17.79 25.09 19.98 27.21 17.05 26.37 17.89 29.31 15.76 27.11 15.02 30.08"/>
+    <rect class="e" y="15.75" width="58.92" height="2.87"/>
+  </g>
+</svg>

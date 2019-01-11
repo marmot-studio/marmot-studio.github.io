@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #ea0020;
+      }
+
+      .d {
+        fill: #4a94fc;
+      }
+
+      .e {
+        fill: #348110;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-951.02 -545.23)">
+      <rect class="a" x="951.02" y="545.23" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Karelia</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect class="e" y="22.92" width="58.92" height="11.46"/>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #347b5e;
+      }
+
+      .d {
+        fill: #bc0030;
+      }
+
+      .e {
+        fill: #f3d02f;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1092.64 -140.71)">
+      <rect class="a" x="1092.64" y="140.71" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Cameroon</title>
+  <g class="b">
+    <rect class="c" width="19.64" height="34.37"/>
+    <rect class="d" x="19.64" width="19.64" height="34.37"/>
+    <rect class="e" x="39.28" width="19.64" height="34.37"/>
+    <polygon class="e" points="31.36 17.8 34.44 15.57 30.64 15.57 29.46 11.95 28.29 15.57 24.48 15.57 27.56 17.8 26.38 21.42 29.46 19.19 32.54 21.42 31.36 17.8"/>
+  </g>
+</svg>

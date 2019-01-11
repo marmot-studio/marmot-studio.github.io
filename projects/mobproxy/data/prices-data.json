@@ -1,0 +1,45 @@
+[
+  {
+    "": {
+      "country": {
+        "day": "30,00 $",
+        "week": "150,00 $",
+        "month": "700,00 $"
+      },
+      "connection_wifi": "No extra charge",
+      "connection_mobile": {
+        "day": "30,00 $ (Day)",
+        "week": "186,00 $ (Week)",
+        "month": "260,00 $ (Month)"
+      },
+      "connection_mix": {
+        "day": "10,00 $ (Day)",
+        "week": "20,00 $ (Week)",
+        "month": "35,00 $ (Month)"
+      },
+      "piece_wifi": "0,04 $",
+      "piece_mobile": "9,00 $",
+      "piece_mix": "0,50 $",
+      "free_count_mobile": 10,
+      "free_count_wifi": 300,
+      "free_count_mix": 80
+    },
+    "0": {
+      "country": {
+        "day": "50,00 $",
+        "week": "300,00 $",
+        "month": "1 100,00 $"
+      },
+      "connection_mobile": {
+        "month": "1 750,00 $ (Month)",
+        "day": "60,00 $ (Day)",
+        "week": "430,00 $ (Week)"
+      },
+      "connection_mix": {
+        "day": "20,00 $ (Day)",
+        "week": "60,00 $ (Week)",
+        "month": "100,00 $ (Month)"
+      }
+    }
+  }
+]

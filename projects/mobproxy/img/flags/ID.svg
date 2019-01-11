@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #bc0030;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-880.33 -432.24)">
+      <rect class="a" x="880.33" y="432.24" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Indonesia</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="17.19"/>
+    <rect class="d" y="17.19" width="58.92" height="17.19"/>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #488a30;
+      }
+
+      .d {
+        fill: #f1da28;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-880.33 -489.82)">
+      <rect class="a" x="880.33" y="489.82" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Jamaica</title>
+  <g class="b">
+    <polygon class="c" points="5.49 34.37 53.43 34.37 29.46 20.39 5.49 34.37"/>
+    <polygon class="c" points="53.43 0 5.49 0 29.46 13.98 53.43 0"/>
+    <polygon points="0 31.17 23.97 17.19 0 3.2 0 31.17"/>
+    <polygon points="58.92 31.17 58.92 3.2 34.95 17.19 58.92 31.17"/>
+    <polygon class="d" points="0 34.37 0 34.37 5.49 34.37 29.46 20.39 53.43 34.37 58.92 34.37 29.46 17.19 0 34.37"/>
+    <polygon class="d" points="53.43 0 29.46 13.98 5.49 0 0 0 29.46 17.19 58.92 0 53.43 0"/>
+    <polygon class="d" points="58.92 0 29.46 17.19 58.92 34.37 58.92 31.17 34.95 17.19 58.92 3.2 58.92 0"/>
+    <polygon class="d" points="0 3.2 23.97 17.19 0 31.17 0 34.37 29.46 17.19 0 0 0 3.2"/>
+  </g>
+</svg>

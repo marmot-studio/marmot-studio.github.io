@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #ea0020;
+      }
+
+      .d {
+        fill: #2500d2;
+      }
+
+      .e {
+        fill: #f2af26;
+      }
+
+      .f {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-175 -836.22)">
+      <rect class="a" x="175" y="836.22" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Nagorno-Karabakh_Republic</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect class="e" y="22.92" width="58.92" height="11.46"/>
+    <polygon class="f" points="48.74 0 48.74 3.82 43.65 3.82 43.65 7.64 38.55 7.64 38.55 11.46 33.46 11.46 33.46 15.28 28.37 15.28 28.37 19.1 33.46 19.1 33.46 22.92 38.55 22.92 38.55 26.73 43.65 26.73 43.65 30.55 48.74 30.55 48.74 34.37 58.92 34.37 58.92 30.55 53.83 30.55 53.83 26.73 48.74 26.73 48.74 22.92 43.65 22.92 43.65 19.1 38.55 19.1 38.55 15.28 43.65 15.28 43.65 11.46 48.74 11.46 48.74 7.64 53.83 7.64 53.83 3.82 58.92 3.82 58.92 0 48.74 0"/>
+  </g>
+</svg>

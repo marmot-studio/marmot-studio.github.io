@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #223693;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #c51d32;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-175.5 -432.24)">
+      <rect class="a" x="175.5" y="432.24" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Iceland</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" x="13.37" width="7.64" height="34.37"/>
+    <rect class="d" y="13.37" width="58.92" height="7.64"/>
+    <rect class="e" x="15.28" width="3.82" height="34.37"/>
+    <rect class="e" y="15.28" width="58.92" height="3.82"/>
+  </g>
+</svg>

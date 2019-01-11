@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #429e61;
+      }
+
+      .d {
+        fill: #f3d02f;
+      }
+
+      .e {
+        fill: #4d72c0;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1021.95 -313.34)">
+      <rect class="a" x="1021.95" y="313.34" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Gabon</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect class="e" y="22.91" width="58.92" height="11.46"/>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #130065;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #f5cb28;
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-33.62 -1128.18)">
+      <rect class="a" x="33.62" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Tokelau</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="6.98 3.18 8.19 3.18 8.56 2.03 8.94 3.18 10.14 3.18 9.17 3.88 9.54 5.03 8.56 4.32 7.59 5.03 7.96 3.88 6.98 3.18"/>
+    <polygon class="d" points="2.16 8.03 3.37 8.03 3.74 6.88 4.11 8.03 5.32 8.03 4.34 8.74 4.72 9.88 3.74 9.17 2.77 9.88 3.14 8.74 2.16 8.03"/>
+    <polygon class="d" points="11.29 6.82 12.37 6.82 12.7 5.8 13.03 6.82 14.1 6.82 13.23 7.46 13.56 8.47 12.7 7.84 11.83 8.47 12.16 7.46 11.29 6.82"/>
+    <polygon class="d" points="6.81 15.64 8.15 15.64 8.56 14.37 8.98 15.64 10.32 15.64 9.23 16.43 9.65 17.7 8.56 16.92 7.48 17.7 7.89 16.43 6.81 15.64"/>
+    <g class="b">
+      <path class="e" d="M33.62,1162.55c18.91-11,26.83-24.64,47.19-34.37-5.53,8.16-4.39,26.62,11.73,34.27Z" transform="translate(-33.62 -1128.18)"/>
+      <rect class="c" y="30.94" width="58.92" height="1.72"/>
+    </g>
+  </g>
+</svg>

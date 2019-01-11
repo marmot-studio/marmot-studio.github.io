@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 166.3 166.3" class="meridians">
+  <defs>
+    <style>
+      .meridians .a {
+        opacity: 0.6;
+      }
+
+      .meridians .b, .meridians .c, .meridians .d, .meridians .e {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+
+      .meridians .b {
+        stroke: #2c4e5d;
+      }
+
+      .meridians .c {
+        stroke: url(#a);
+      }
+
+      .meridians .d {
+        stroke: url(#b);
+      }
+
+      .meridians .e {
+        stroke: url(#c);
+      }
+    </style>
+    <linearGradient id="a" x1="74.35525" y1="29.37564" x2="91.78416" y2="37.50279" gradientTransform="translate(0 49.66998)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c4e5d"/>
+      <stop offset="1" stop-color="#2c4e5d" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="b" x1="79.88579" y1="51.85606" x2="85.11408" y2="22.20467" xlink:href="#a"/>
+    <linearGradient id="c" x1="62.37242" y1="41.29947" x2="99.14511" y2="27.91529" xlink:href="#a"/>
+  </defs>
+  <title>Meridians</title>
+  <g>
+    <g class="a">
+      <circle class="b" cx="83.15" cy="83.14999" r="82.9"/>
+    </g>
+    <path class="c" d="M91.35,87.25c18.8-41.8,30.3-77.5,25.7-79.8s-23.6,29.7-42.3,71.5c-18.8,41.8-30.3,77.5-25.7,79.8S72.65,129.05,91.35,87.25Z"/>
+    <path class="d" d="M88.05,72.65c44.8,8.2,78.7,21.1,75.6,28.8-3.1,7.8-41.9,7.4-86.7-.7-44.8-8.2-78.7-21.1-75.6-28.8C4.35,64.15,43.15,64.55,88.05,72.65Z"/>
+    <path class="e" d="M98.05,76.75c1.3,3.2,2.6,6.3,3.8,9.4,14.9,38.2,19.9,70.6,11,74.5-9.6,4.1-31.7-26.7-49.5-68.8-17.7-42.3-24.4-79.8-14.8-83.9C58.15,3.75,80.35,34.55,98.05,76.75Z"/>
+  </g>
+</svg>

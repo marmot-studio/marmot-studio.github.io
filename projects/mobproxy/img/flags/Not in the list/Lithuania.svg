@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #f1b72d;
+      }
+
+      .d {
+        fill: #2d6b46;
+      }
+
+      .e {
+        fill: #b01f35;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-34.12 -720.43)">
+      <rect class="a" x="34.12" y="720.43" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Lithuania</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="11.46" width="58.92" height="22.91"/>
+    <rect class="e" y="22.92" width="58.92" height="11.46"/>
+  </g>
+</svg>

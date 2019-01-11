@@ -1,0 +1,55 @@
+// Conditions
+#conditions {
+  background: linear-gradient(to bottom, #d5d0f9 0%, #eeecfb 100%);
+
+  .list {
+    font: {
+      family: $font-family-secondary;
+      size: .875rem;
+    }
+    line-height: 1.8;
+
+    li {
+      $icon-size: 2rem;
+
+      position: relative;
+      padding-left: #{$icon-size + .875rem};
+
+      + li {
+        margin-top: 1rem;
+      }
+
+      &::before,
+      &::after {
+        position: absolute;
+        left: 0;
+      }
+
+      &::before {
+        @include icomoon($icon-size, $icon-check-mark-filled);
+        z-index: 1;
+        color: #3e3781;
+      }
+
+      &::after {
+        @include size($icon-size);
+        top: 0;
+        border-radius: 50%;
+        background-color: $white;
+        content: "";
+      }
+    }
+
+    strong {
+      font-size: 1rem;
+    }
+  }
+
+  .section-img {
+    max-width: 300px;
+
+    @include media-breakpoint-up(md) {
+      max-width: 404px;
+    }
+  }
+}

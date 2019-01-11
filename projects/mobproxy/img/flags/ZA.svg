@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #d03033;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #1f189b;
+      }
+
+      .f {
+        fill: #f2b126;
+      }
+
+      .g {
+        fill: #32784c;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-951.46 -1009.91)">
+      <rect class="a" x="951.46" y="1009.91" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>South_Africa</title>
+  <g class="b">
+    <polygon class="c" points="10.33 0 27.51 11.46 58.92 11.46 58.92 0 10.33 0"/>
+    <polygon class="d" points="30.95 13.75 58.92 13.75 58.92 11.46 27.51 11.46 30.95 13.75"/>
+    <polygon class="d" points="27.51 22.92 58.92 22.92 58.92 20.62 30.95 20.62 27.51 22.92"/>
+    <polygon class="e" points="27.51 22.92 10.33 34.37 58.92 34.37 58.92 22.92 27.51 22.92"/>
+    <polygon points="0 11.46 6.86 11.46 0 6.88 0 11.46"/>
+    <polygon points="0 11.46 0 22.92 6.86 22.92 15.45 17.18 6.86 11.46 0 11.46"/>
+    <polygon points="0 22.92 0 27.49 6.86 22.92 0 22.92"/>
+    <polygon class="f" points="0 6.88 15.45 17.18 0 27.49 0 30.24 19.58 17.18 0 4.13 0 6.88"/>
+    <polygon class="g" points="0 0 0 4.13 19.58 17.18 0 30.24 0 34.37 6.2 34.37 26.82 20.62 58.92 20.62 58.92 13.75 26.82 13.75 6.2 0 0 0"/>
+  </g>
+</svg>

@@ -1,0 +1,453 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Mobprofit: правильная монетизация Android-трафика">
+    <meta name="author" content="Babakov Sergey">
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo+2:300,400,500,600,700|Rubik:400,700&amp;subset=cyrillic">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" integrity="sha256-oSrCnRYXvHG31SBifqP2PM1uje7SJUyX0nTwO2RJV54=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.2/fullpage.min.css" integrity="sha256-UpMjO/vjKVT88OY3sXrfRuk/gjS8ETEO0B1rVwBqN58=" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="assets/css/main.min.css">
+    <title>Mobprofit: главная страница</title>
+  </head>
+  <body>
+    <!-- Registration -->
+    <div class="modal modal-hidden" id="modal-reg" tabindex="-1" role="dialog" aria-labelledby="registration" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="registration">Регистрация</h4>
+            <button type="button" class="modal-close" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form class="form-validation">
+              <div class="field-container">
+                <div class="field">
+                  <label class="label" for="email1">Почта</label>
+                  <div class="control">
+                    <input class="input" id="email1" type="email" placeholder="Укажите Вашу почту" required>
+                  </div>
+                </div>
+                <div class="field">
+                  <label class="label" for="password1">Пароль</label>
+                  <div class="control">
+                    <input class="input" id="password1" type="password" name="password" placeholder="Введите Ваш пароль" required>
+                  </div>
+                </div>
+                <div class="field">
+                  <label class="label" for="password2">Повторите пароль</label>
+                  <div class="control">
+                    <input class="input" id="password2" type="password" name="password-confirm" placeholder="Введите пароль повторно" required>
+                  </div>
+                </div>
+                <div class="field">
+                  <label class="label" for="id">ICQ / Skype</label>
+                  <div class="control">
+                    <input class="input" id="id" type="text" placeholder="Укажите Ваш ID" required>
+                  </div>
+                </div>
+                <div class="field">
+                  <label class="label" for="lang">Язык</label>
+                  <div class="control">
+                    <select class="select" id="lang">
+                      <option value="ru">Русский</option>
+                      <option value="en">Английский</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="field">
+                  <label class="label" for="currency">Валюта</label>
+                  <div class="control">
+                    <select class="select" id="currency">
+                      <option value="ruble">Рубль</option>
+                      <option value="dollar">Доллар</option>
+                      <option value="euro">Евро</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <button type="submit" class="modal-button">Продолжить
+                <span class="triangle-right ml-3"></span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Login -->
+    <div class="modal modal-hidden" id="modal-log" tabindex="-1" role="dialog" aria-labelledby="login" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="login">Вход</h4>
+            <button type="button" class="modal-close" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form class="form-validation">
+              <div class="field-container">
+                <div class="field">
+                  <label class="label" for="email2">Почта</label>
+                  <div class="control">
+                    <input class="input" id="email2" type="email" placeholder="Укажите Вашу почту" required>
+                  </div>
+                </div>
+                <div class="field">
+                  <label class="label" for="password3">Пароль</label>
+                  <div class="control">
+                    <input class="input" id="password3" type="password" placeholder="Введите Ваш пароль" required>
+                  </div>
+                </div>
+                <div class="field field-group">
+                  <div class="custom-checkbox">
+                    <input class="custom-checkbox-input" id="remember" type="checkbox">
+                    <label class="custom-checkbox-label" for="remember">Запомнить меня</label>
+                  </div>
+                  <a class="forgot-link modal-trigger" href="#modal-password">Забыли пароль?</a>
+                </div>
+              </div>
+              <button type="submit" class="modal-button">Войти
+                <span class="triangle-right ml-3"></span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Password recovery -->
+    <div class="modal modal-hidden" id="modal-password" tabindex="-1" role="dialog" aria-labelledby="recovery" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="recovery">Восстановление пароля</h4>
+            <button type="button" class="modal-close" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="container-fluid py-6">
+              <p class="text-center">Для смены пароля обратитесь к администратору.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <header class="fixed-top">
+      <nav class="navbar">
+        <div class="navbar-container">
+          <div class="navbar-logo" data-svg="assets/img/logo/logo-text.svg"></div>
+          <ul class="navbar-nav nav-lang">
+            <li class="nav-item dropdown">
+              <a href="#" id="dropdown01" class="nav-link dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false">RU</a>
+              <div class="dropdown-content" aria-labelledby="dropdown01">
+                <a href="#" class="dropdown-link">EN</a>
+              </div>
+            </li>
+          </ul>
+          <button class="navbar-toggler collapse-toggler" type="button" data-target="#collapse" aria-controls="collapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-bar" aria-hidden="true"></span>
+            <span class="navbar-toggler-bar" aria-hidden="true"></span>
+            <span class="navbar-toggler-bar" aria-hidden="true"></span>
+          </button>
+          <div id="collapse" data-event-outside="hide" class="navbar-collapse collapse">
+            <ul class="navbar-nav nav-main">
+              <li class="nav-item active" data-menuanchor="section01">
+                <a href="#section01" class="nav-link js-nav-link">
+                  <span class="nav-link-underline">Главная</span>
+                </a>
+              </li>
+              <li class="nav-item" data-menuanchor="section02">
+                <a href="#section02" class="nav-link js-nav-link">
+                  <span class="nav-link-underline">Монетизация</span>
+                </a>
+              </li>
+              <li class="nav-item" data-menuanchor="section03">
+                <a href="#section03" class="nav-link js-nav-link">
+                  <span class="nav-link-underline">Преимущества</span>
+                </a>
+              </li>
+              <li class="nav-item" data-menuanchor="section04">
+                <a href="#section04" class="nav-link js-nav-link">
+                  <span class="nav-link-underline">Выплаты</span>
+                </a>
+              </li>
+              <li class="nav-item" data-menuanchor="section05">
+                <a href="#section05" class="nav-link js-nav-link">
+                  <span class="nav-link-underline">Страны</span>
+                </a>
+              </li>
+              <li class="nav-item" data-menuanchor="section06">
+                <a href="#section06" class="nav-link js-nav-link">
+                  <span class="nav-link-underline">Контакты</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <ul class="navbar-nav nav-account">
+            <li class="nav-item">
+              <a href="#modal-reg" class="nav-link modal-trigger">Регистрация</a>
+            </li>
+            <li class="nav-item">
+              <a href="#modal-log" class="nav-link modal-trigger">Вход</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <main id="fullpage">
+      <section class="section" id="intro">
+        <div class="container">
+          <div class="intro">
+            <img class="logo" src="assets/img/logo/logo.svg" alt="Логотип Mobprofit">
+            <h1 class="text-uppercase">Партнёрская программа<br> по&nbsp;монетизации android-трафика</h1>
+            <hr class="divider my-5">
+            <p>Извлекаем прибыль качественно, <a href="error.html">стабильно</a>, долго.</p>
+            <div class="my-6">
+              <a class="button modal-trigger" href="#modal-reg" role="button">Регистрация</a>
+              <a class="button modal-trigger mt-4 mt-xs-0 ml-xs-4" href="#modal-log" role="button">Вход</a>
+            </div>
+            <div class="svg-container-mouse js-scroll" data-svg="assets/img/mouse.svg"></div>
+          </div>
+        </div>
+      </section>
+      <section class="section fp-auto-height-responsive" id="monetization">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 col-lg-10 offset-lg-1">
+              <div class="row">
+                <div class="col">
+                  <h2 class="h2 mb-3 mb-md-7">Что мы монетизируем?</h2>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="row items">
+                    <div class="col-md-4">
+                      <div class="item item-right">
+                        <h3>Арбитражный трафик</h3>
+                        <p>Покупайте Android-трафик и конвертируйте его в стабильную прибыль.</p>
+                      </div>
+                    </div>
+                    <div class="col-md-4 offset-md-4">
+                      <div class="item item-left">
+                        <h3>Мобильные сайты</h3>
+                        <p>Ещё никогда мобильный сайт не был таким прибыльным.</p>
+                      </div>
+                    </div>
+                    <div class="col-md-4 mt-md-7">
+                      <div class="item item-right">
+                        <h3>Приложения и игры</h3>
+                        <p>Доверьте монетизацию нам. Вы будете приятно удивлены!</p>
+                      </div>
+                    </div>
+                    <div class="col-md-4 mt-md-7 offset-md-4">
+                      <div class="item item-left">
+                        <h3>Что-то другое?</h3>
+                        <p>Напишите нам, мы поможем с монетизацией!</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-4 offset-md-4">
+                      <div class="svg-container-smartphone" data-svg="assets/img/smartphone.svg"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section fp-auto-height-responsive" id="advantages">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <h2 class="h2 mb-7 mb-lg-3">Почему мы?</h2>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-5 items-outer">
+              <div class="items-inner">
+                <div class="item">
+                  <h3>Обширное Geo</h3>
+                  <p>Мы принимаем трафик из 13 стран. Также можем добавить страну по Вашему запросу.</p>
+                </div>
+                <div class="item">
+                  <h3>Обширный таргет</h3>
+                  <p>Мы принимаем трафик без какого-либо таргета: все операторы сотовой связи, версии устройств и т.п.</p>
+                </div>
+                <div class="item">
+                  <h3>Еженедельные выплаты</h3>
+                  <p>Мы платим каждую неделю в четверг-пятницу на выбранную Вами платёжную систему.</p>
+                </div>
+                <div class="item">
+                  <h3>Выбор схемы работы</h3>
+                  <p>Вы сами выбираете удобную для себя систему работы: Revshare (разделение прибыли) или CPI (мгновенная прибыль).</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-7">
+              <div class="svg-container-start" data-svg="assets/img/start.svg"></div>
+              <div class="line"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section fp-auto-height-responsive" id="payments">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <h2 class="h2">Мы предлагаем выплаты в системах</h2>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <img src="assets/img/currency.svg" alt="Валюта" class="img01">
+              <div class="mt-5">
+                <div class="paysystem js-fixed-height" data-svg="assets/img/paysystems/yandexmoney.svg"></div>
+                <div class="paysystem js-fixed-height" data-svg="assets/img/paysystems/epay.svg"></div>
+                <div class="paysystem js-fixed-height" data-svg="assets/img/paysystems/epayments.svg"></div>
+                <div class="paysystem js-fixed-height" data-svg="assets/img/paysystems/webmoney.svg"></div>
+                <div class="paysystem js-fixed-height" data-svg="assets/img/paysystems/paypal.svg"></div>
+                <div class="paysystem js-fixed-height" data-svg="assets/img/paysystems/qiwi.svg"></div>
+              </div>
+              <img src="assets/img/money.svg" alt="Деньги" class="img02">
+              <div class="note mt-7">
+                <p>Выплаты каждый четверг<br> на выбранную Вами платёжную систему</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section fp-auto-height-responsive" id="countries">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <h2 class="h2">Подключено 13 стран</h2>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-5 order-lg-1 mb-6 mb-lg-0 align-center">
+              <div class="countries-outer">
+                <div class="countries-inner">
+                  <figure class="country">
+                    <div class="country-flag">
+                      <img src="assets/img/flags/Brazil.svg" alt="Флаг Бразилии">
+                    </div>
+                    <figcaption class="country-name">Бразилия</figcaption>
+                  </figure>
+                  <figure class="country">
+                    <div class="country-flag">
+                      <img src="assets/img/flags/India.svg" alt="Флаг Индии">
+                    </div>
+                    <figcaption class="country-name">Индия</figcaption>
+                  </figure>
+                  <figure class="country">
+                    <div class="country-flag">
+                      <img src="assets/img/flags/Malaysia.svg" alt="Флаг Малайзии">
+                    </div>
+                    <figcaption class="country-name">Малайзия</figcaption>
+                  </figure>
+                  <figure class="country">
+                    <div class="country-flag">
+                      <img src="assets/img/flags/Mexico.svg" alt="Флаг Мексики">
+                    </div>
+                    <figcaption class="country-name">Мексика</figcaption>
+                  </figure>
+                  <figure class="country">
+                    <div class="country-flag">
+                      <img src="assets/img/flags/Russia.svg" alt="Флаг России">
+                    </div>
+                    <figcaption class="country-name">Россия</figcaption>
+                  </figure>
+                  <figure class="country">
+                    <div class="country-flag">
+                      <img src="assets/img/flags/Spain.svg" alt="Флаг Испании">
+                    </div>
+                    <figcaption class="country-name">Испания</figcaption>
+                  </figure>
+                  <figure class="country">
+                    <div class="country-flag">
+                      <img src="assets/img/flags/Thailande.svg" alt="Флаг Таиланда">
+                    </div>
+                    <figcaption class="country-name">Таиланд</figcaption>
+                  </figure>
+                </div>
+                <p>Нет нужной страны?<br> Напишите нам и мы подключим её для Вас.</p>
+              </div>
+            </div>
+            <div class="col-lg-7 order-lg-0">
+              <div class="svg-container-map js-map" data-svg="assets/img/map.svg"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section fp-auto-height-responsive" id="contacts">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <h2 class="h2">Наши контакты</h2>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xl-10 offset-xl-1">
+              <div class="row">
+                <div class="col-md-6 align-center">
+                  <ul class="list contact-list">
+                    <li class="contact-item">
+                      <a class="contact-link" href="mailto:support@mobprofit.com">
+                        <span class="contact-icon" data-svg="assets/img/contacts/email.svg"></span>
+                        <span>support@mobprofit.com</span>
+                      </a>
+                    </li>
+                    <li class="contact-item">
+                      <a class="contact-link" href="skype:live:mobprofit">
+                        <span class="contact-icon" data-svg="assets/img/contacts/skype.svg"></span>
+                        <span>live:mobprofit</span>
+                      </a>
+                    </li>
+                    <li class="contact-item">
+                      <a class="contact-link" href="http://www.icq.com/whitepages/cmd.php?uin=icq&amp;action=message">
+                        <span class="contact-icon" data-svg="assets/img/contacts/icq.svg"></span>
+                        <span>ICQ: mobprofit</span>
+                      </a>
+                    </li>
+                    <li class="contact-item">
+                      <a class="contact-link" href="xmpp:mobprofit@jabbim.com">
+                        <span class="contact-icon" data-svg="assets/img/contacts/jabber.svg"></span>
+                        <span>mobprofit@jabbim.com</span>
+                      </a>
+                    </li>
+                    <li class="contact-item">
+                      <a class="contact-link" href="tg:resolve?domain=mobprofit">
+                        <span class="contact-icon" data-svg="assets/img/contacts/telegram.svg"></span>
+                        <span>telegram: mobprofit</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-md-6 align-center">
+                  <img class="contact-img" src="assets/img/contact.svg" alt="Всегда на связи">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="copyright">
+          <div class="container">
+            <p>Copyright © 2018</p>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.2/fullpage.min.js" integrity="sha256-Q47o2Uc6LErNo37jq+LX+NR6bQ6sr9WGLW95qCZcsyM=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/validate@2.2.0/dist/validate.min.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

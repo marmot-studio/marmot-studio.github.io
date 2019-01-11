@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #2a43b6;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1092.64 -371.66)">
+      <rect class="a" x="1092.64" y="371.66" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Honduras</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="29.46 15.28 28.87 17.09 29.78 17.39 29.46 15.28"/>
+    <polygon class="d" points="29.46 15.28 30.05 17.09 29.14 17.39 29.46 15.28"/>
+    <polygon class="d" points="31.28 16.6 29.37 16.6 29.37 17.55 31.28 16.6"/>
+    <polygon class="d" points="31.28 16.6 29.73 17.72 29.17 16.95 31.28 16.6"/>
+    <polygon class="d" points="27.65 16.6 29.19 17.72 29.75 16.95 27.65 16.6"/>
+    <polygon class="d" points="27.65 16.6 29.55 16.6 29.55 17.55 27.65 16.6"/>
+    <polygon class="d" points="30.58 18.73 29.99 16.92 29.09 17.21 30.58 18.73"/>
+    <polygon class="d" points="30.58 18.73 29.04 17.61 29.6 16.84 30.58 18.73"/>
+    <polygon class="d" points="28.34 18.73 29.89 17.61 29.32 16.84 28.34 18.73"/>
+    <polygon class="d" points="28.34 18.73 28.93 16.92 29.84 17.21 28.34 18.73"/>
+    <polygon class="d" points="39.01 18.14 38.42 19.96 39.33 20.25 39.01 18.14"/>
+    <polygon class="d" points="39.01 18.14 39.6 19.96 38.69 20.25 39.01 18.14"/>
+    <polygon class="d" points="40.83 19.46 38.92 19.46 38.92 20.42 40.83 19.46"/>
+    <polygon class="d" points="40.83 19.46 39.28 20.58 38.72 19.81 40.83 19.46"/>
+    <polygon class="d" points="37.19 19.46 38.74 20.58 39.3 19.81 37.19 19.46"/>
+    <polygon class="d" points="37.19 19.46 39.1 19.46 39.1 20.42 37.19 19.46"/>
+    <polygon class="d" points="40.13 21.6 39.54 19.78 38.63 20.08 40.13 21.6"/>
+    <polygon class="d" points="40.13 21.6 38.59 20.48 39.15 19.7 40.13 21.6"/>
+    <polygon class="d" points="37.89 21.6 39.43 20.48 38.87 19.7 37.89 21.6"/>
+    <polygon class="d" points="37.89 21.6 38.48 19.78 39.38 20.08 37.89 21.6"/>
+    <polygon class="d" points="39.01 12.41 38.42 14.23 39.33 14.53 39.01 12.41"/>
+    <polygon class="d" points="39.01 12.41 39.6 14.23 38.69 14.53 39.01 12.41"/>
+    <polygon class="d" points="40.83 13.73 38.92 13.73 38.92 14.69 40.83 13.73"/>
+    <polygon class="d" points="40.83 13.73 39.28 14.86 38.72 14.08 40.83 13.73"/>
+    <polygon class="d" points="37.19 13.73 38.74 14.86 39.3 14.08 37.19 13.73"/>
+    <polygon class="d" points="37.19 13.73 39.1 13.73 39.1 14.69 37.19 13.73"/>
+    <polygon class="d" points="40.13 15.87 39.54 14.05 38.63 14.35 40.13 15.87"/>
+    <polygon class="d" points="40.13 15.87 38.59 14.74 39.15 13.97 40.13 15.87"/>
+    <polygon class="d" points="37.89 15.87 39.43 14.74 38.87 13.97 37.89 15.87"/>
+    <polygon class="d" points="37.89 15.87 38.48 14.05 39.38 14.35 37.89 15.87"/>
+    <polygon class="d" points="19.91 18.14 19.32 19.96 20.23 20.25 19.91 18.14"/>
+    <polygon class="d" points="19.91 18.14 20.5 19.96 19.6 20.25 19.91 18.14"/>
+    <polygon class="d" points="21.73 19.46 19.82 19.46 19.82 20.42 21.73 19.46"/>
+    <polygon class="d" points="21.73 19.46 20.18 20.58 19.63 19.81 21.73 19.46"/>
+    <polygon class="d" points="18.1 19.46 19.64 20.58 20.2 19.81 18.1 19.46"/>
+    <polygon class="d" points="18.1 19.46 20.01 19.46 20.01 20.42 18.1 19.46"/>
+    <polygon class="d" points="21.04 21.6 20.45 19.78 19.54 20.08 21.04 21.6"/>
+    <polygon class="d" points="21.04 21.6 19.49 20.48 20.05 19.7 21.04 21.6"/>
+    <polygon class="d" points="18.79 21.6 20.34 20.48 19.77 19.7 18.79 21.6"/>
+    <polygon class="d" points="18.79 21.6 19.38 19.78 20.29 20.08 18.79 21.6"/>
+    <polygon class="d" points="19.91 12.41 19.32 14.23 20.23 14.53 19.91 12.41"/>
+    <polygon class="d" points="19.91 12.41 20.5 14.23 19.6 14.53 19.91 12.41"/>
+    <polygon class="d" points="21.73 13.73 19.82 13.73 19.82 14.69 21.73 13.73"/>
+    <polygon class="d" points="21.73 13.73 20.18 14.86 19.63 14.08 21.73 13.73"/>
+    <polygon class="d" points="18.1 13.73 19.64 14.86 20.2 14.08 18.1 13.73"/>
+    <polygon class="d" points="18.1 13.73 20.01 13.73 20.01 14.69 18.1 13.73"/>
+    <polygon class="d" points="21.04 15.87 20.45 14.05 19.54 14.35 21.04 15.87"/>
+    <polygon class="d" points="21.04 15.87 19.49 14.74 20.05 13.97 21.04 15.87"/>
+    <polygon class="d" points="18.79 15.87 20.34 14.74 19.77 13.97 18.79 15.87"/>
+    <polygon class="d" points="18.79 15.87 19.38 14.05 20.29 14.35 18.79 15.87"/>
+    <rect class="d" width="58.92" height="11.46"/>
+    <rect class="d" y="22.92" width="58.92" height="11.46"/>
+  </g>
+</svg>

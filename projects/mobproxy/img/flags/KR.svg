@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #b50037;
+      }
+
+      .e {
+        fill: #1e3476;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-880.33 -605.15)">
+      <rect class="a" x="880.33" y="605.15" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>South_Korea</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect x="919.1" y="610.89" width="1.43" height="3.94" transform="translate(-1065.79 7.92) rotate(-33.69)"/>
+    <rect x="921.68" y="614.76" width="1.43" height="3.94" transform="translate(-1067.51 10.02) rotate(-33.69)"/>
+    <rect x="922.18" y="609.3" width="1.43" height="8.59" transform="translate(-1065.69 9.69) rotate(-33.68)"/>
+    <rect x="922.68" y="608.5" width="1.43" height="3.94" transform="translate(-1063.87 9.5) rotate(-33.69)"/>
+    <rect x="925.26" y="612.38" width="1.43" height="3.94" transform="translate(-1065.59 11.6) rotate(-33.69)"/>
+    <rect x="897.75" y="625.59" width="1.43" height="8.59" transform="translate(-1078.83 -1.02) rotate(-33.69)"/>
+    <rect x="894.67" y="627.17" width="1.43" height="3.94" transform="translate(-1078.94 -2.59) rotate(-33.7)"/>
+    <rect x="897.25" y="631.04" width="1.43" height="3.94" transform="translate(-1080.64 -0.81) rotate(-33.69)"/>
+    <rect x="894.18" y="627.97" width="1.43" height="8.59" transform="translate(-1080.75 -2.6) rotate(-33.69)"/>
+    <rect x="894.17" y="614.08" width="8.59" height="1.43" transform="translate(-991.76 416.21) rotate(-56.31)"/>
+    <rect x="892.38" y="612.88" width="8.59" height="1.43" transform="translate(-991.57 414.2) rotate(-56.31)"/>
+    <rect x="890.6" y="611.69" width="8.59" height="1.43" transform="translate(-991.33 412.28) rotate(-56.32)"/>
+    <rect x="917.85" y="631.11" width="3.94" height="1.43" transform="translate(-996.41 441.6) rotate(-56.31)"/>
+    <rect x="920.43" y="627.23" width="3.94" height="1.43" transform="translate(-992.04 442.01) rotate(-56.31)"/>
+    <rect x="919.64" y="632.3" width="3.94" height="1.43" transform="translate(-996.6 443.63) rotate(-56.31)"/>
+    <rect x="922.22" y="628.43" width="3.94" height="1.43" transform="translate(-992.35 443.76) rotate(-56.3)"/>
+    <rect x="921.42" y="633.49" width="3.94" height="1.43" transform="translate(-996.92 445.35) rotate(-56.3)"/>
+    <rect x="924" y="629.62" width="3.94" height="1.43" transform="translate(-992.43 446.05) rotate(-56.31)"/>
+    <g class="b">
+      <path class="d" d="M902.64,617.57l-0.09.14,0.09-.14" transform="translate(-880.33 -605.15)"/>
+      <path class="d" d="M914.55,615.19a8.59,8.59,0,0,0-11.92,2.38,4.3,4.3,0,0,0,7.15,4.77,4.3,4.3,0,1,1,7.15,4.77,8.59,8.59,0,0,0-2.38-11.92" transform="translate(-880.33 -605.15)"/>
+      <path class="e" d="M902.64,617.57a4.3,4.3,0,0,0,7.15,4.77,4.3,4.3,0,1,1,7.15,4.77,8.59,8.59,0,1,1-14.3-9.53" transform="translate(-880.33 -605.15)"/>
+    </g>
+  </g>
+</svg>

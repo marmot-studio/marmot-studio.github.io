@@ -1,0 +1,61 @@
+// Monetization
+#monetization {
+  background: linear-gradient(to bottom, #2e1d6e 0%, #51479d 100%);
+  color: $white;
+
+  .list {
+    @include make-row();
+    font-size: 1.0625rem;
+
+    li {
+      + li {
+        margin-top: 1.25rem;
+      }
+
+      &:hover::before {
+        color: $white;
+      }
+
+      @include make-col-ready();
+      display: flex;
+      align-items: center;
+      color: #d5cfff;
+
+      @include media-breakpoint-only(xl) {
+        @include make-col(6);
+
+        + li {
+          margin-top: 0;
+        }
+      }
+
+      @include media-breakpoint-only(md) {
+        @include make-col(6);
+
+        + li {
+          margin-top: 0;
+        }
+      }
+
+      &::before {
+        margin-right: 1rem;
+        color: #cfc8ff;
+        transition: color .3s ease-in-out;
+      }
+
+      &:first-child::before {
+        @include icomoon(3.75rem, $icon-clock);
+      }
+
+      &:last-child::before {
+        @include icomoon(3.75rem, $icon-cogwheel);
+      }
+    }
+  }
+
+  .section-img {
+    @include media-breakpoint-down(lg) {
+      max-width: 400px;
+    }
+  }
+}

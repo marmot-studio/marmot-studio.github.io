@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c0001a;
+      }
+
+      .d {
+        fill: #f8e72a;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-880.33 -720.42)">
+      <rect class="a" x="880.33" y="720.42" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Macedonia</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <path class="d" d="M930.41,754.79h8.84l-29.46-17.19Zm-50.08-34.37,29.46,17.19-20.62-17.19h-8.84Z" transform="translate(-880.33 -720.42)"/>
+    <path class="d" d="M906.84,754.79h5.89l-2.95-17.19Zm0-34.37,2.95,17.19,2.95-17.19h-5.89Z" transform="translate(-880.33 -720.42)"/>
+    <path class="d" d="M880.33,754.79h8.84l20.62-17.19Zm50.08-34.37-20.62,17.19,29.46-17.19h-8.84Z" transform="translate(-880.33 -720.42)"/>
+    <path class="d" d="M880.33,741l29.46-3.44-29.46-3.44V741Zm29.46-3.44L939.25,741v-6.87Z" transform="translate(-880.33 -720.42)"/>
+    <g class="b">
+      <path class="c" d="M909.79,731.47a6.14,6.14,0,1,1-6.14,6.14,6.14,6.14,0,0,1,6.14-6.14" transform="translate(-880.33 -720.42)"/>
+      <path class="d" d="M909.79,732.7a4.91,4.91,0,1,1-4.91,4.91,4.91,4.91,0,0,1,4.91-4.91" transform="translate(-880.33 -720.42)"/>
+    </g>
+  </g>
+</svg>

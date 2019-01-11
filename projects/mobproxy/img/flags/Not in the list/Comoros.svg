@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #f4c533;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #bc0030;
+      }
+
+      .f {
+        fill: #4d72c0;
+      }
+
+      .g {
+        fill: #508e38;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-880.57 -197.48)">
+      <rect class="a" x="880.57" y="197.48" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Comoros</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="8.59" width="58.92" height="25.78"/>
+    <rect class="e" y="17.19" width="58.92" height="17.19"/>
+    <rect class="f" y="25.78" width="58.92" height="8.59"/>
+    <polygon class="g" points="0 0 0 34.37 28.64 17.19 0 0"/>
+    <g class="b">
+      <path class="d" d="M898,214.67a7.73,7.73,0,0,1-15.47,0h0a7.73,7.73,0,0,1,15.47,0h0Z" transform="translate(-880.57 -197.48)"/>
+      <path class="g" d="M901.48,214.67a7.73,7.73,0,1,1-15.47,0h0a7.73,7.73,0,1,1,15.47,0h0Z" transform="translate(-880.57 -197.48)"/>
+      <polygon class="d" points="10.1 22.28 11.14 22.28 11.46 21.29 11.78 22.28 12.82 22.28 11.98 22.89 12.3 23.88 11.46 23.27 10.62 23.88 10.94 22.89 10.1 22.28"/>
+      <polygon class="d" points="10.1 11.21 11.14 11.21 11.46 10.22 11.78 11.21 12.82 11.21 11.98 11.82 12.3 12.81 11.46 12.2 10.62 12.81 10.94 11.82 10.1 11.21"/>
+      <polygon class="d" points="10.1 14.9 11.14 14.9 11.46 13.91 11.78 14.9 12.82 14.9 11.98 15.51 12.3 16.5 11.46 15.89 10.62 16.5 10.94 15.51 10.1 14.9"/>
+      <polygon class="d" points="10.1 18.59 11.14 18.59 11.46 17.6 11.78 18.59 12.82 18.59 11.98 19.2 12.3 20.19 11.46 19.58 10.62 20.19 10.94 19.2 10.1 18.59"/>
+    </g>
+  </g>
+</svg>

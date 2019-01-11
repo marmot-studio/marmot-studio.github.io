@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #3e9913;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #e90020;
+      }
+
+      .f {
+        fill: #3e743b;
+      }
+
+      .g {
+        fill: #c8172b;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-387.32 -197.48)">
+      <rect class="a" x="387.32" y="197.48" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Chechen_Republic_of_Ichkeria</title>
+  <g class="b">
+    <rect class="c" width="58.93" height="34.37"/>
+    <rect class="d" y="22.92" width="58.93" height="8.59"/>
+    <rect class="e" y="25.78" width="58.93" height="2.86"/>
+    <polygon class="f" points="0.09 0 58.9 0 58.9 22.85 29.49 22.85 0.09 22.85 0.09 0"/>
+    <polygon class="f" points="0.09 31.59 58.9 31.59 58.9 34.33 29.49 34.33 0.09 34.33 0.09 31.59"/>
+    <rect class="g" x="0.09" y="25.8" width="58.81" height="2.84"/>
+  </g>
+</svg>

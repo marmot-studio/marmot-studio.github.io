@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #49ae32;
+      }
+
+      .d {
+        fill: #f5cd28;
+      }
+
+      .e {
+        fill: #c0003b;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1022.15 -952.31)">
+      <rect class="a" x="1022.15" y="952.31" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Sao_Tome_and_Principe</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="9.82" width="58.92" height="14.73"/>
+    <polygon class="e" points="0 0 0 34.37 17.19 17.18 0 0"/>
+    <polygon points="29.18 12.28 32.06 21.16 24.51 15.67 33.84 15.67 26.29 21.16 29.18 12.28"/>
+    <polygon points="46.36 12.28 49.25 21.16 41.69 15.67 51.03 15.67 43.48 21.16 46.36 12.28"/>
+  </g>
+</svg>

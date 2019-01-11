@@ -1,0 +1,21 @@
+// Integration
+#integration {
+  background: linear-gradient(to bottom, #56469b 0%, #0174c0 100%);
+  color: $white;
+
+  .strong {
+    font-weight: 600;
+  }
+
+  .section-img {
+    max-width: 385px;
+
+    @media (min-width: 1600px) {
+      max-width: 415px;
+    }
+
+    @include media-breakpoint-down(md) {
+      display: none;
+    }
+  }
+}

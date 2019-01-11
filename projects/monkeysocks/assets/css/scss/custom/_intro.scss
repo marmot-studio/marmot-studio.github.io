@@ -1,0 +1,199 @@
+// Intro (+ validation styles)
+#intro {
+  background: linear-gradient(to bottom, #0072be 0%, #2ca6f7 100%);
+  color: $white;
+
+  .section-img {
+    max-width: 350px;
+
+    @include media-breakpoint-up(xl) {
+      max-width: 400px;
+    }
+  }
+}
+
+.form-label-group {
+  $input-padding-y: .625rem;
+  $input-padding-x: 1rem;
+
+  position: relative;
+  margin-bottom: 1rem;
+
+  .form-control {
+    padding: $input-padding-y $input-padding-x;
+    border: 0;
+    color: rgba($black,.9);
+    font-size: 1.1875rem;
+
+    @include media-breakpoint-up(lg) {
+      height: 3rem;
+    }
+  }
+
+  label {
+    @include text-truncate;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    margin-bottom: 0;
+    padding: $input-padding-y $input-padding-x;
+    color: rgba($black,.5);
+    font-size: 1.1875rem;
+    transition: all .15s ease-in-out;
+  }
+
+  input {
+    &::placeholder {
+      color: transparent;
+    }
+
+    &:not(:placeholder-shown) {
+      padding-top: ($input-padding-y + $input-padding-y * (2 / 3));
+      padding-bottom: ($input-padding-y / 3);
+
+      ~ label {
+        padding-top: ($input-padding-y / 3);
+        padding-bottom: ($input-padding-y / 3);
+        font-size: .75rem;
+        color: rgba($black,.7);
+      }
+    }
+  }
+}
+
+#gplay {
+  padding-left: 3rem;
+  background: url('../img/google-play.svg') no-repeat 1rem 50% / auto 55% $white;
+
+  & ~ label {
+    padding-left: 3rem;
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  &:not(:placeholder-shown) ~ label {
+    font-size: .75rem;
+    line-height: 1.5;
+  }
+}
+
+// Microsoft IE 10/11
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .form-label-group {
+    input::placeholder {
+      color: rgba($black,.5);
+      font-size: 1rem;
+    }
+
+    label {
+      visibility: hidden;
+    }
+  }
+}
+
+// Microsoft Edge
+@supports (-ms-ime-align:auto) {
+  .form-label-group {
+    input::placeholder {
+      color: rgba($black,.5);
+      font-size: 1rem;
+    }
+
+    label {
+      visibility: hidden;
+    }
+  }
+}
+
+.checkbox1 {
+  @include custom-checkbox;
+
+  label {
+    font-size: .75rem;
+  }
+
+  @include media-breakpoint-down(xs) {
+    label {
+      &::before,
+      &::after {
+        top: .5rem;
+      }
+    }
+  }
+}
+
+.intro-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 1rem;
+  font: {
+    family: $font-family-tertiary;
+    size: 1.5rem;
+    weight: 700;
+  }
+  text-transform: uppercase;
+
+  @include media-breakpoint-up(sm) {
+    padding: .75rem 1rem;
+  }
+}
+
+// Validation
+.required-sign {
+  position: absolute;
+  top: .5rem;
+  right: .5rem;
+  color: #434343;
+  font: {
+    family: $font-family-secondary;
+    size: 1.1875rem;
+  }
+  line-height: 1;
+  z-index: 9;
+
+  .was-validated .form-control:invalid ~ &,
+  .is-invalid & {
+    color: $form-feedback-invalid-color;
+  }
+}
+
+.invalid-feedback {
+  @include size(100%);
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: .625rem 1rem;
+  background-color: $white;
+  line-height: 2.3333;
+}
+
+.was-validated {
+  .form-control {
+    &:invalid:focus,
+    &.is-invalid:focus,
+    &:valid:focus,
+    &.is-valid:focus {
+      box-shadow: none;
+    }
+  }
+
+  .custom-control-input {
+    &:invalid ~ .custom-control-label,
+    &.is-invalid ~ .custom-control-label,
+    &:valid ~ .custom-control-label,
+    &.is-valid ~ .custom-control-label {
+      color: inherit;
+    }
+    
+    &:valid ~ .custom-control-label::before,
+    &.is-valid ~ .custom-control-label::before,
+    &:valid:checked ~ .custom-control-label::before,
+    &.is-valid:checked ~ .custom-control-label::before {
+      background-color: $white;
+    }
+  }
+}

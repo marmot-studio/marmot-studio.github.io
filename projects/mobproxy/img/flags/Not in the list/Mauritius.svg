@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c9002b;
+      }
+
+      .d {
+        fill: #1d2984;
+      }
+
+      .e {
+        fill: #f6ec2e;
+      }
+
+      .f {
+        fill: #419254;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-457.75 -778.89)">
+      <rect class="a" x="457.75" y="778.89" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Mauritius</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="8.59"/>
+    <rect class="d" y="8.59" width="58.92" height="8.59"/>
+    <rect class="e" y="17.19" width="58.92" height="8.59"/>
+    <rect class="f" y="25.78" width="58.92" height="8.59"/>
+  </g>
+</svg>

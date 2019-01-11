@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #2c00fc;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #ea0020;
+      }
+
+      .f {
+        fill: #348110;
+      }
+
+      .g {
+        fill: #f6d728;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-34.12 -605.15)">
+      <rect class="a" x="34.12" y="605.15" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Khakassia</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect class="e" y="22.91" width="58.92" height="11.46"/>
+    <rect class="f" width="11.46" height="34.37"/>
+    <g class="b">
+      <path class="g" d="M39.85,617.88a4.46,4.46,0,1,1-4.46,4.46,4.46,4.46,0,0,1,4.46-4.46h0Z" transform="translate(-34.12 -605.15)"/>
+      <polygon class="g" points="1.27 12.73 2.55 17.19 1.27 21.64 5.73 20.37 10.19 21.64 8.91 17.19 10.19 12.73 5.73 14 1.27 12.73"/>
+      <path class="f" d="M39.85,626.32a4,4,0,1,1,4-4,4,4,0,0,1-4,4h0Zm0-7a3,3,0,1,0,3,3,3,3,0,0,0-3-3h0Z" transform="translate(-34.12 -605.15)"/>
+      <path class="f" d="M39.85,624.73a2.39,2.39,0,1,1,2.39-2.39,2.39,2.39,0,0,1-2.39,2.39h0Zm0-3.82a1.43,1.43,0,1,0,1.43,1.43,1.43,1.43,0,0,0-1.43-1.43h0Z" transform="translate(-34.12 -605.15)"/>
+    </g>
+  </g>
+</svg>

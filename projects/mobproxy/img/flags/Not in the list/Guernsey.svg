@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #d50037;
+      }
+
+      .e {
+        fill: #f2dd30;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-668.5 -371.66)">
+      <rect class="a" x="668.5" y="371.66" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Guernsey</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="25.16 0 25.16 12.89 0 12.89 0 21.48 25.16 21.48 25.16 34.37 33.76 34.37 33.76 21.48 58.92 21.48 58.92 12.89 33.76 12.89 33.76 0 25.16 0"/>
+    <polygon class="e" points="16.57 20.05 18 18.62 30.89 18.62 30.89 15.76 18 15.76 16.57 14.32 16.57 20.05"/>
+    <polygon class="e" points="26.6 4.3 28.03 5.73 28.03 18.62 30.89 18.62 30.89 5.73 32.33 4.3 26.6 4.3"/>
+    <polygon class="e" points="32.33 30.08 30.89 28.64 30.89 15.76 28.03 15.76 28.03 28.64 26.6 30.08 32.33 30.08"/>
+    <polygon class="e" points="42.35 14.32 40.92 15.76 28.03 15.76 28.03 18.62 40.92 18.62 42.35 20.05 42.35 14.32"/>
+  </g>
+</svg>

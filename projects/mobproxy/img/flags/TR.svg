@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #d00027;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-457.75 -1128.18)">
+      <rect class="a" x="457.75" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Turkey</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <g class="b">
+      <path class="d" d="M474.94,1136.77a8.59,8.59,0,1,1-8.59,8.59,8.59,8.59,0,0,1,8.59-8.59" transform="translate(-457.75 -1128.18)"/>
+      <path class="c" d="M477.09,1138.49a6.88,6.88,0,1,1-6.87,6.88,6.88,6.88,0,0,1,6.87-6.88" transform="translate(-457.75 -1128.18)"/>
+      <polygon class="d" points="24.45 17.19 28.53 18.52 29.2 16.47 24.45 17.19"/>
+      <polygon class="d" points="24.45 17.19 28.53 15.86 29.2 17.9 24.45 17.19"/>
+      <polygon class="d" points="27.42 13.1 27.42 17.4 29.56 17.4 27.42 13.1"/>
+      <polygon class="d" points="27.42 13.1 29.94 16.58 28.2 17.84 27.42 13.1"/>
+      <polygon class="d" points="27.42 21.27 29.94 17.8 28.2 16.54 27.42 21.27"/>
+      <polygon class="d" points="27.42 21.27 27.42 16.98 29.56 16.98 27.42 21.27"/>
+      <polygon class="d" points="32.22 14.66 28.13 15.99 28.8 18.03 32.22 14.66"/>
+      <polygon class="d" points="32.22 14.66 29.69 18.14 27.95 16.88 32.22 14.66"/>
+      <polygon class="d" points="32.22 19.71 29.69 16.24 27.95 17.5 32.22 19.71"/>
+      <polygon class="d" points="32.22 19.71 28.13 18.39 28.8 16.34 32.22 19.71"/>
+    </g>
+  </g>
+</svg>

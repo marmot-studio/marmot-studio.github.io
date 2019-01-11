@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #2530a9;
+      }
+
+      .e {
+        fill: #c22623;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-528.71 -197.48)">
+      <rect class="a" x="528.71" y="197.48" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Chile</title>
+  <g class="b">
+    <rect class="c" width="58.93" height="34.37"/>
+    <rect class="d" width="17.19" height="34.37"/>
+    <rect class="e" y="17.19" width="58.93" height="17.19"/>
+    <polygon class="c" points="8.59 4.3 7.27 8.38 9.31 9.05 8.59 4.3"/>
+    <polygon class="c" points="8.59 4.3 9.92 8.38 7.88 9.05 8.59 4.3"/>
+    <polygon class="c" points="12.68 7.27 8.38 7.27 8.38 9.41 12.68 7.27"/>
+    <polygon class="c" points="12.68 7.27 9.2 9.79 7.94 8.05 12.68 7.27"/>
+    <polygon class="c" points="4.51 7.27 7.98 9.79 9.25 8.05 4.51 7.27"/>
+    <polygon class="c" points="4.51 7.27 8.8 7.27 8.8 9.41 4.51 7.27"/>
+    <polygon class="c" points="11.12 12.07 9.79 7.98 7.75 8.65 11.12 12.07"/>
+    <polygon class="c" points="11.12 12.07 7.64 9.54 8.91 7.81 11.12 12.07"/>
+    <polygon class="c" points="6.07 12.07 9.54 9.54 8.28 7.81 6.07 12.07"/>
+    <polygon class="c" points="6.07 12.07 7.39 7.98 9.44 8.65 6.07 12.07"/>
+  </g>
+</svg>

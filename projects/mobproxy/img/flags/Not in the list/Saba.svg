@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c9002b;
+      }
+
+      .d {
+        fill: #1d2984;
+      }
+
+      .e {
+        fill: #fff;
+      }
+
+      .f {
+        fill: #f1d92d;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-245.69 -952.3)">
+      <rect class="a" x="245.69" y="952.3" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Saba</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="17.19" width="58.92" height="17.19"/>
+    <polygon class="e" points="29.46 0 0 17.18 29.46 34.37 58.92 17.18 29.46 0"/>
+    <polygon class="f" points="29.46 7.46 31.65 14.18 38.71 14.18 33 18.33 35.18 25.05 29.46 20.9 23.75 25.05 25.93 18.33 20.21 14.18 27.28 14.18 29.46 7.46"/>
+  </g>
+</svg>

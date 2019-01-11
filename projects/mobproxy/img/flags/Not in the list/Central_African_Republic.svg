@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #1e2f80;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #48982f;
+      }
+
+      .f {
+        fill: #f5cd28;
+      }
+
+      .g {
+        fill: #c0003b;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-245.95 -197.48)">
+      <rect class="a" x="245.95" y="197.48" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Central_African_Republic</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="8.59"/>
+    <rect class="d" y="8.59" width="58.92" height="8.59"/>
+    <rect class="e" y="17.19" width="58.92" height="8.59"/>
+    <rect class="f" y="25.78" width="58.92" height="8.59"/>
+    <rect class="g" x="25.17" width="8.59" height="34.37"/>
+    <polygon class="f" points="10.11 0.8 10.98 3.47 13.79 3.47 11.52 5.12 12.38 7.79 10.11 6.14 7.84 7.79 8.71 5.12 6.43 3.47 9.24 3.47 10.11 0.8"/>
+  </g>
+</svg>

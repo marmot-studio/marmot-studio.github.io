@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #dc1c37;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #192967;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-33.62 -894.4)">
+      <rect class="a" x="33.62" y="894.4" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Norway</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" x="12.89" width="8.59" height="34.37"/>
+    <rect class="d" y="12.89" width="58.92" height="8.59"/>
+    <rect class="e" x="15.04" width="4.3" height="34.37"/>
+    <rect class="e" y="15.04" width="58.92" height="4.3"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #388752;
+      }
+
+      .d {
+        fill: #f3d02f;
+      }
+
+      .e {
+        fill: #d50037;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-951.26 -85.01)">
+      <rect class="a" x="951.26" y="85.01" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Benin</title>
+  <g class="b">
+    <rect class="c" width="20.62" height="34.37"/>
+    <rect class="d" x="20.62" width="38.3" height="17.19"/>
+    <rect class="e" x="20.62" y="17.19" width="38.3" height="17.19"/>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #2d6c41;
+      }
+
+      .d {
+        fill: #f3d02f;
+      }
+
+      .e {
+        fill: #bc0030;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-175.26 -371.66)">
+      <rect class="a" x="175.26" y="371.66" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Ghana</title>
+  <g class="b">
+    <rect class="c" y="22.91" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect class="e" width="58.92" height="11.46"/>
+    <polygon points="24.46 16.06 28.28 16.06 29.46 12.43 30.64 16.06 34.47 16.06 31.37 18.31 32.55 21.94 29.46 19.7 26.37 21.94 27.55 18.31 24.46 16.06"/>
+  </g>
+</svg>

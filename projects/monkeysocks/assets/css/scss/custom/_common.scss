@@ -1,0 +1,107 @@
+// Common styles
+.section {
+  & > .container {
+    padding-top: $section-padding-y;
+    padding-bottom: $section-padding-y;
+  }
+
+  &:first-child > .container {
+    padding-top: 7.5rem;
+
+    @include media-breakpoint-up(sm) {
+      padding-top: calc(#{$section-padding-y} + #{$navbar-lg-height});
+    }    
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  %center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .section-container {
+    @extend %center-content;
+    min-height: calc(100vh - #{$navbar-sm-height});
+
+    .section:first-child & {
+      min-height: 100vh;
+    }
+
+    @media (min-height: 768px) {
+      &,
+      .section:first-child & {
+        min-height: $section-height;
+      }
+    }
+  }
+
+  .section-column {
+    @extend %center-content;
+  }
+}
+
+.section-content {
+  /*
+  This wrapper is required because the flex container’s margins do not collapse
+  with the margins of its contents.
+  See more:
+  https://stackoverflow.com/questions/43882869/margin-collapsing-in-flexbox
+  https://www.w3.org/TR/css-flexbox-1/#flex-formatting-context
+  */
+}
+
+.section-img {
+  @include center-block;
+  width: 100%;
+}
+
+.list {
+  @include list-unstyled;
+}
+
+.leading {
+  line-height: 1.8;
+
+  a {
+    &:hover {
+      border-bottom: 1px dashed rgba($link-color, .7);
+      text-decoration: none;
+    }
+  }
+}
+
+.strong {
+  font-size: 1.25rem;
+}
+
+.fixed-top {
+  transform: translateZ(0);
+  // hack to avoid the bizarre behavior of fixed navbar caused by animation below
+}
+
+.item-img {
+  #advantages .item:hover &,
+  #payments .item:hover & {
+    animation: heartbeat 1.7s infinite ease-in;
+  }
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  10% {
+    transform: scale(1.1);
+  }
+  20% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(1.1);
+  }
+  40% {
+    transform: scale(1);
+  }
+}

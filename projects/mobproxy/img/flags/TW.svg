@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #d10e2f;
+      }
+
+      .d {
+        fill: #1c2666;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-668.7 -1069.2)">
+      <rect class="a" x="668.7" y="1069.2" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Taiwan</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" width="25.78" height="17.19"/>
+    <path class="e" d="M683.31,1077.8l-1.72,6.44-1.72-6.44,1.72-6.45m0,8.16,6.45-1.72-6.45-1.72-6.45,1.72" transform="translate(-668.7 -1069.2)"/>
+    <path class="e" d="M683.08,1078.66l-4.71,4.72,1.73-6.44,4.71-4.72m-4.08,7.07,6.44,1.73-4.72-4.71-6.44-1.73" transform="translate(-668.7 -1069.2)"/>
+    <path class="e" d="M682.45,1079.29L676,1081l4.72-4.71,6.44-1.73m-7.07,4.08,4.71,4.72-1.73-6.44-4.71-4.72" transform="translate(-668.7 -1069.2)"/>
+    <g class="b">
+      <path class="d" d="M681.59,1074.14a3.65,3.65,0,1,1-3.65,3.65,3.65,3.65,0,0,1,3.65-3.65" transform="translate(-668.7 -1069.2)"/>
+      <path class="e" d="M681.59,1074.58a3.22,3.22,0,1,1-3.22,3.22,3.22,3.22,0,0,1,3.22-3.22" transform="translate(-668.7 -1069.2)"/>
+    </g>
+  </g>
+</svg>

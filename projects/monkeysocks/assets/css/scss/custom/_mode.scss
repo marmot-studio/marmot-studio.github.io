@@ -1,0 +1,98 @@
+// Mode
+#mode {
+  background: linear-gradient(to bottom, #f4dbb3 0%, #f8e6ce 100%);
+
+  .list {
+    color: #6d502e;
+    counter-reset: item;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+    @include media-breakpoint-up(xl) {
+      margin-bottom: 3.75rem;
+    }
+
+    li {
+      $active-item-color: #493d97;
+
+      + li {
+        margin-top: 1.25rem;
+      }
+
+      &:hover::before {
+        background-color: $active-item-color;
+      }
+
+      &::before {
+        @include size(2rem);
+        display: inline-block;
+        margin-right: .875rem;
+        border-radius: 50%;
+        background-color: color("dodger-blue");
+        color: $white;
+        font-weight: 700;
+        text-align: center;
+        counter-increment: item;
+        content: counter(item);
+        transition: all .25s ease-in;
+      }
+
+      &.active::before {
+        background-color: $active-item-color;
+      }
+    }
+  }
+
+  .item {
+    display: flex;
+    align-items: center;
+    color: #806b4b;
+    font-size: 1.0625rem;
+  }
+
+  .item-img-container {
+    @include size(4.875rem, 5rem);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-right: 1rem;
+  }
+
+  .item-img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .img-wave {
+    max-width: 4.125rem;
+  }
+
+  .item-text {
+    margin-bottom: 0;
+  }
+
+  @include media-breakpoint-up(md) {
+    .item {
+      flex-direction: column;
+    }
+
+    .item-img-container {
+      align-items: flex-end;
+      justify-content: center;
+      margin-right: 0;
+      margin-bottom: 1rem;
+    }
+
+    .item-text {
+      text-align: center;
+    }
+  }
+
+  .section-img {
+    max-width: 385px;
+
+    @include media-breakpoint-down(lg) {
+      display: none;
+    }
+  }
+}

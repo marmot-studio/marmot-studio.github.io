@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #cb0028;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #1a237b;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-951.46 -1069.2)">
+      <rect class="a" x="951.46" y="1069.2" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Thailand</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="5.73" width="58.92" height="22.91"/>
+    <rect class="e" y="11.46" width="58.92" height="11.46"/>
+  </g>
+</svg>

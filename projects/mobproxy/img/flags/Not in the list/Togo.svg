@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #2d6b4f;
+      }
+
+      .d {
+        fill: #f5cd28;
+      }
+
+      .e {
+        fill: #c0003b;
+      }
+
+      .f {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1092.84 -1069.2)">
+      <rect class="a" x="1092.84" y="1069.2" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Togo</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="6.88" width="58.92" height="6.87"/>
+    <rect class="d" y="20.62" width="58.92" height="6.88"/>
+    <rect class="e" width="20.62" height="20.62"/>
+    <polygon class="f" points="10.31 3.78 8.29 9.99 11.4 11 10.31 3.78"/>
+    <polygon class="f" points="10.31 3.78 12.33 9.99 9.22 11 10.31 3.78"/>
+    <polygon class="f" points="16.52 8.29 9.99 8.29 9.99 11.56 16.52 8.29"/>
+    <polygon class="f" points="16.52 8.29 11.24 12.13 9.32 9.49 16.52 8.29"/>
+    <polygon class="f" points="4.1 8.29 9.38 12.13 11.3 9.49 4.1 8.29"/>
+    <polygon class="f" points="4.1 8.29 10.63 8.29 10.63 11.56 4.1 8.29"/>
+    <polygon class="f" points="14.15 15.6 12.13 9.38 9.03 10.39 14.15 15.6"/>
+    <polygon class="f" points="14.15 15.6 8.87 11.76 10.79 9.12 14.15 15.6"/>
+    <polygon class="f" points="6.47 15.6 11.76 11.76 9.84 9.12 6.47 15.6"/>
+    <polygon class="f" points="6.47 15.6 8.49 9.38 11.6 10.39 6.47 15.6"/>
+  </g>
+</svg>

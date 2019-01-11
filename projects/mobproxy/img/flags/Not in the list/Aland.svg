@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #2b51a1;
+      }
+
+      .d {
+        fill: #f5cd28;
+      }
+
+      .e {
+        fill: #c0003b;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-316.63 -28.99)">
+      <rect class="a" x="316.63" y="28.99" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Aland</title>
+  <g class="b">
+    <rect class="c" y="22.24" width="16.18" height="12.13"/>
+    <rect class="c" x="26.29" y="22.24" width="32.64" height="12.13"/>
+    <rect class="c" width="16.18" height="12.13"/>
+    <rect class="c" x="26.29" width="32.64" height="12.13"/>
+    <polygon class="d" points="16.18 0 16.18 12.13 0 12.13 0 15.16 19.21 15.16 19.21 0 16.18 0"/>
+    <polygon class="d" points="26.29 12.13 26.29 0 23.25 0 23.25 15.16 58.93 15.16 58.93 12.13 26.29 12.13"/>
+    <polygon class="d" points="0 19.21 0 22.24 16.18 22.24 16.18 34.37 19.21 34.37 19.21 19.21 0 19.21"/>
+    <polygon class="d" points="23.25 19.21 23.25 34.37 26.29 34.37 26.29 22.24 58.93 22.24 58.93 19.21 23.25 19.21"/>
+    <polygon class="e" points="19.21 0 19.21 15.16 0 15.16 0 19.21 19.21 19.21 19.21 34.37 23.25 34.37 23.25 19.21 58.93 19.21 58.93 15.16 23.25 15.16 23.25 0 19.21 0"/>
+  </g>
+</svg>

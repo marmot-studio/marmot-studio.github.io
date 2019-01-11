@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.48 50.2" class="svg-email">
+  <defs>
+    <style>
+      .svg-email .a {
+        fill: none;
+        stroke: #ff2e52;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+
+      .svg-email .b {
+        fill: #647584;
+      }
+    </style>
+  </defs>
+  <title>Email</title>
+  <g>
+    <circle class="a" cx="25.1" cy="25.1" r="24.85"/>
+    <path class="b" d="M12.71,18.32l.08-.25a2,2,0,0,1,2-1.49H35.35a2,2,0,0,1,2.16,2.15V31.44a2,2,0,0,1-2.18,2.18H15a2.06,2.06,0,0,1-2.24-1.68V18.32Zm12.6,8.21,9.37-8.39H15.57ZM15.44,32H34.78l-6.29-6.29L25.9,28.08a.78.78,0,0,1-1.1.06l-.06-.06L23.26,26.8l-1.38-1.18ZM14.26,30.9l6.36-6.36-6.36-5.48Zm21.67,0V19.12l-6.21,5.57Z"/>
+    <line class="a" x1="54.87" y1="25.1" x2="74.48" y2="25.1"/>
+  </g>
+</svg>

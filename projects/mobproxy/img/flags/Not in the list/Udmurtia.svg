@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #ca1024;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-880.77 -1128.18)">
+      <rect class="a" x="880.77" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Udmurtia</title>
+  <g class="b">
+    <rect width="19.64" height="34.37"/>
+    <rect class="c" x="19.64" width="19.64" height="34.37"/>
+    <rect class="d" x="39.28" width="19.64" height="34.37"/>
+    <polygon class="d" points="26.73 9 37.65 19.92 21.28 19.92 32.19 9 32.19 25.37 21.28 14.46 37.65 14.46 26.73 25.37 26.73 9"/>
+  </g>
+</svg>

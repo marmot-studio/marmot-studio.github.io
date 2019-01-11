@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #2d6b4f;
+      }
+
+      .d {
+        fill: #e01748;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-528.71 -85.01)">
+      <rect class="a" x="528.71" y="85.01" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Bangladesh</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <g class="b">
+      <path class="d" d="M555.22,90.41a11.78,11.78,0,1,1-11.79,11.78,11.78,11.78,0,0,1,11.79-11.78" transform="translate(-528.71 -85.01)"/>
+    </g>
+  </g>
+</svg>

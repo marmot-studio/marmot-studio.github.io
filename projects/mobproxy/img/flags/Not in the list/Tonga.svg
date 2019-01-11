@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #b00018;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-104.31 -1128.18)">
+      <rect class="a" x="104.31" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Tonga</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" width="28.64" height="17.19"/>
+    <rect class="c" x="12.17" y="2.15" width="4.3" height="12.89"/>
+    <rect class="c" x="7.88" y="6.45" width="12.89" height="4.3"/>
+  </g>
+</svg>

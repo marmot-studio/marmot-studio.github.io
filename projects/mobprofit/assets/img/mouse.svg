@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 34.91" class="svg-mouse">
+  <defs>
+    <style>
+      .svg-mouse .a {
+        fill: #ff2e52;
+      }
+
+      .svg-mouse .b {
+        fill: #fff;
+      }
+
+      .svg-mouse:hover .b {
+        fill: #647584;
+      }
+    </style>
+  </defs>
+  <title>Mouse</title>
+  <g>
+    <path class="a" d="M12,5.45A3.27,3.27,0,0,0,8.73,8.72h0v4.36a3.27,3.27,0,1,0,6.55,0V8.72A3.27,3.27,0,0,0,12,5.45Zm1.09,7.64a1.09,1.09,0,0,1-2.18,0V8.73a1.09,1.09,0,0,1,2.18,0h0Z"/>
+    <path class="b" d="M12,0A12,12,0,0,0,0,12V22.91a12,12,0,0,0,24,0V12A12,12,0,0,0,12,0Zm9.82,22.91a9.82,9.82,0,1,1-19.64,0V12a9.82,9.82,0,1,1,19.64,0Z"/>
+  </g>
+</svg>

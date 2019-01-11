@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c9152c;
+      }
+
+      .d {
+        fill: #f4c638;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-880.57 -255.23)">
+      <rect class="a" x="880.57" y="255.23" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>East_Timor</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="0 0 0 34.37 34.37 17.19 0 0"/>
+    <polygon points="0 0 0 34.37 22.91 17.19 0 0"/>
+    <polygon class="e" points="12.78 12.78 10.87 16.63 14.06 19.51 9.68 19.02 7.75 22.86 6.95 18.72 2.56 18.22 6.45 16.14 5.67 11.99 8.88 14.85 12.78 12.78"/>
+  </g>
+</svg>

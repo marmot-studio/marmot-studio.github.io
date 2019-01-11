@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #bc0030;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-245.69 -1128.18)">
+      <rect class="a" x="245.69" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Trinidad_and_Tobago</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="0 0 40.9 34.37 58.92 34.37 18.02 0 0 0"/>
+    <polygon points="3 0 43.91 34.37 55.92 34.37 15.02 0 3 0"/>
+  </g>
+</svg>

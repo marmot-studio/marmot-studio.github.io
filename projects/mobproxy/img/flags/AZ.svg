@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #438fc3;
+      }
+
+      .d {
+        fill: #d6003f;
+      }
+
+      .e {
+        fill: #48ae68;
+      }
+
+      .f {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-316.64 -85.01)">
+      <rect class="a" x="316.64" y="85.01" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Azerbaijan</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect class="e" y="22.91" width="58.92" height="11.46"/>
+    <g class="b">
+      <path class="f" d="M347.26,106.21a4,4,0,1,1,2.18-7.38,4.81,4.81,0,1,0,0,6.74,4,4,0,0,1-2.18.64" transform="translate(-316.64 -85.01)"/>
+      <polygon class="f" points="36.05 19.01 34.74 18.41 34.23 19.76 33.73 18.41 32.41 19.01 33.01 17.69 31.65 17.18 33.01 16.68 32.41 15.36 33.73 15.96 34.24 14.61 34.74 15.96 36.06 15.36 35.46 16.68 36.81 17.19 35.46 17.7 36.05 19.01"/>
+    </g>
+  </g>
+</svg>

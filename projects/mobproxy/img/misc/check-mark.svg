@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 248" class="check-mark">
+  <defs>
+    <style>
+      .check-mark .a {
+        fill: #181818;
+        stroke: #1b5b72;
+        stroke-width: 10px;
+      }
+
+      .check-mark .b {
+        fill: none;
+        stroke: #ffed00;
+        stroke-opacity: 0;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 30px;
+      }
+    </style>
+  </defs>
+  <title>Check mark</title>
+  <g>
+    <circle class="a" cx="124" cy="124" r="120"/>
+    <path class="b" d="M83.66667,112.66667l37.66667,42.66667L224,35.33333"/>
+  </g>
+</svg>

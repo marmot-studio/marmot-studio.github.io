@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #b01f35;
+      }
+
+      .d {
+        fill: #296437;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1092.84 -778.89)">
+      <rect class="a" x="1092.84" y="778.89" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Morocco</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="27.12 14.43 19.53 14.44 28.17 21.03 29.46 20.05 24.23 16.05 26.62 16.04 27.12 14.43"/>
+    <polygon class="d" points="31.81 14.44 29.46 6.85 26.16 17.52 27.46 18.51 29.46 12.04 30.2 14.44 31.81 14.44"/>
+    <polygon class="d" points="33.26 19.13 39.39 14.44 28.72 14.44 28.23 16.04 34.7 16.04 32.76 17.52 33.26 19.13"/>
+    <polygon class="d" points="29.46 22.03 35.6 26.71 32.3 16.04 30.7 16.04 32.7 22.51 30.76 21.04 29.46 22.03"/>
+    <polygon class="d" points="25.66 19.13 23.33 26.71 31.96 20.11 31.46 18.51 26.23 22.51 26.96 20.12 25.66 19.13"/>
+  </g>
+</svg>

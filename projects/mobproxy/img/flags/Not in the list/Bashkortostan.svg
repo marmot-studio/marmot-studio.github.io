@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #3e69fc;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #2e720d;
+      }
+
+      .f {
+        clip-path: url(#b);
+      }
+
+      .g {
+        fill: #f6d728;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-668.5 -85.01)">
+      <rect class="a" x="668.5" y="85.01" width="58.92" height="34.37"/>
+    </clipPath>
+    <clipPath id="b" transform="translate(-668.5 -85.01)">
+      <rect class="a" x="668.5" y="85.01" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Bashkortostan</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="11.46"/>
+    <rect class="d" y="11.46" width="58.92" height="11.46"/>
+    <rect class="e" y="22.91" width="58.92" height="11.46"/>
+    <g class="f">
+      <path class="g" d="M698,106.78a4.58,4.58,0,1,1,4.58-4.58,4.59,4.59,0,0,1-4.58,4.58h0Zm0-8.59a4,4,0,1,0,4,4,4,4,0,0,0-4-4h0Z" transform="translate(-668.5 -85.01)"/>
+      <path class="g" d="M698,101.28a0.92,0.92,0,1,1-.92.92,0.92,0.92,0,0,1,.92-0.92h0Z" transform="translate(-668.5 -85.01)"/>
+      <polygon class="g" points="32.32 17.3 29.46 17.3 29.46 17.07 32.32 17.07 32.32 17.3 32.32 17.3"/>
+      <path class="g" d="M700.82,101.62a0.57,0.57,0,1,1-.57.57,0.57,0.57,0,0,1,.57-0.57h0Z" transform="translate(-668.5 -85.01)"/>
+      <polygon class="g" points="29.52 17.28 29.4 17.09 31.88 15.65 32 15.85 29.52 17.28 29.52 17.28"/>
+      <path class="g" d="M700.15,100.27a0.57,0.57,0,1,1-.21.78,0.57,0.57,0,0,1,.21-0.78h0Z" transform="translate(-668.5 -85.01)"/>
+      <polygon class="g" points="29.56 17.24 29.36 17.13 30.8 14.65 30.99 14.76 29.56 17.24 29.56 17.24"/>
+      <path class="g" d="M698.9,99.43a0.57,0.57,0,1,1,.21.78,0.58,0.58,0,0,1-.21-0.78h0Z" transform="translate(-668.5 -85.01)"/>
+      <polygon class="g" points="29.58 17.18 29.35 17.18 29.35 14.32 29.58 14.32 29.58 17.18 29.58 17.18"/>
+      <path class="g" d="M697.39,99.33a0.57,0.57,0,1,1,.57.57,0.57,0.57,0,0,1-.57-0.57h0Z" transform="translate(-668.5 -85.01)"/>
+      <polygon class="g" points="29.36 17.24 27.93 14.76 28.13 14.65 29.56 17.13 29.36 17.24 29.36 17.24"/>
+      <path class="g" d="M696,100a0.57,0.57,0,1,1,.78.21A0.57,0.57,0,0,1,696,100h0Z" transform="translate(-668.5 -85.01)"/>
+      <polygon class="g" points="29.4 17.28 26.92 15.85 27.04 15.65 29.52 17.09 29.4 17.28 29.4 17.28"/>
+      <path class="g" d="M695.2,101.26A0.57,0.57,0,1,1,696,101a0.57,0.57,0,0,1-.78.21h0Z" transform="translate(-668.5 -85.01)"/>
+      <polygon class="g" points="29.46 17.3 26.6 17.3 26.6 17.07 29.46 17.07 29.46 17.3 29.46 17.3"/>
+      <path class="g" d="M695.1,101.62a0.57,0.57,0,1,1-.57.57,0.57,0.57,0,0,1,.57-0.57h0Z" transform="translate(-668.5 -85.01)"/>
+      <polygon class="g" points="29.58 20.05 29.35 20.05 29.35 17.18 29.58 17.18 29.58 20.05 29.58 20.05"/>
+    </g>
+  </g>
+</svg>

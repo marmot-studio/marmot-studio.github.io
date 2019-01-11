@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #f3d02f;
+      }
+
+      .d {
+        fill: #22368f;
+      }
+
+      .e {
+        fill: #bc0030;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-809.88 -197.48)">
+      <rect class="a" x="809.88" y="197.48" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Colombia</title>
+  <g class="b">
+    <rect class="c" width="58.93" height="17.19"/>
+    <rect class="d" y="17.19" width="58.93" height="8.59"/>
+    <rect class="e" y="25.78" width="58.93" height="8.59"/>
+  </g>
+</svg>

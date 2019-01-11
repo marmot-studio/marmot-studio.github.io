@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #378542;
+      }
+
+      .d {
+        fill: #f8f04d;
+      }
+
+      .e {
+        fill: #d0002f;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-175 -1009.91)">
+      <rect class="a" x="175" y="1009.91" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Senegal</title>
+  <g class="b">
+    <rect class="c" width="19.64" height="34.37"/>
+    <rect class="d" x="19.64" width="19.64" height="34.37"/>
+    <rect class="e" x="39.28" width="19.64" height="34.37"/>
+    <polygon class="c" points="29.46 11.41 30.76 15.4 34.95 15.4 31.56 17.87 32.86 21.86 29.46 19.39 26.07 21.86 27.36 17.87 23.97 15.4 28.17 15.4 29.46 11.41"/>
+  </g>
+</svg>

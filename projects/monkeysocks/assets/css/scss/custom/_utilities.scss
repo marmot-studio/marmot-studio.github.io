@@ -1,0 +1,154 @@
+@import "../bootstrap/functions";
+@import "../bootstrap/variables";
+@import "../bootstrap/mixins";
+@import "../icomoon/variables";
+
+/* Variables
+-------------------------------------------- */
+// Colors
+$colors: (
+  "blackcurrant":    #17123c,
+  "windsor":         #41347f,
+  "tory-blue":       #345292,
+  "summer-sky":      #2894db,
+  "dodger-blue":     #1c9df3,
+  "baby-blue":       #5ceeff,
+  "quartz":          #cec4f0,
+  "pale-brown":      #937b57,
+  "barley-white":    #f7ddb8,
+  "silver":          #bbbbbb,
+  "white-smoke":     #f0f0f0
+);
+
+$brand-color: color("windsor");
+
+// Fonts
+$font-family-primary:     'Open Sans', sans-serif;
+$font-family-secondary:   'Roboto', sans-serif;
+$font-family-tertiary:    'Montserrat', sans-serif;
+
+// Links
+$link-color: color("baby-blue");
+$link-hover-color: $link-color;
+
+// Buttons
+$btn-bg: lighten($brand-color, 3%);
+$btn-border-color: $btn-bg;
+$btn-hover-bg: lighten(saturate(adjust-hue($btn-bg, -4), 9.80), 14.51);
+$btn-hover-border-color: $btn-hover-bg;
+$btn-active-bg: $btn-hover-bg;
+$btn-active-border-color: $btn-hover-border-color;
+
+// Nav
+$nav-color:          $brand-color;
+$nav-color-hover:    color("summer-sky");
+$nav-color-active:   color("silver");
+
+// Navbar
+$navbar-lg-height: 90px;
+$navbar-sm-height: 76px;
+
+// Forms
+$input-color: #6e6a83;
+
+// Sections
+$section-height: 700px;
+$section-padding-y: 3rem;
+
+// Scrollbar
+$scrollbar-width: 10px;
+$scrollbar-thumb-bg: color("quartz");
+$scrollbar-thumb-hover-bg: mix($black, $scrollbar-thumb-bg, 12%);
+$scrollbar-thumb-border: darken($scrollbar-thumb-bg, 17%);
+$scrollbar-track-bg: lighten($scrollbar-thumb-bg, 10%);
+$scrollbar-track-border: darken($scrollbar-track-bg, 15%);
+
+/* Mixins
+-------------------------------------------- */
+@mixin center-block() {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@mixin icomoon($font-size, $content) {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font: {
+    family: "icomoon" !important;
+    size: $font-size;
+    style: normal;
+    weight: normal;
+    variant: normal;
+  }
+  line-height: 1;
+  text-transform: none;
+  speak: none;
+  content: $content;
+}
+
+@mixin custom-checkbox(
+  $size: 1.25rem,
+  $bg-color: $white,
+  $border-width: 1px,
+  $border-color: transparent,
+  $border-radius: .1875rem,
+  $active-bg: lighten($bg-color, 35%),
+  $checked-bg: $white,
+  $checked-color: color("dodger-blue"),
+  $checked-icon: str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='#{$checked-color}' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E"), "#", "%23"),
+  $icon-size: 60%,
+  $indeterminate-bg: transparent,
+  $indeterminate-icon: none
+  ) {
+  & {
+    padding-left: #{$size + .5rem};
+
+    .custom-control-label {
+      &::before,
+      &::after {
+        @include size($size);
+      }
+
+      &::before {
+        background-color: $bg-color;
+        border: $border-width solid $border-color;
+        border-radius: $border-radius;
+      }
+
+      &::after {
+        background-size: $icon-size;
+      }
+    }
+
+    .custom-control-input {
+      &:indeterminate ~ .custom-control-label {
+        &::before {
+          background-color: $indeterminate-bg;
+        }
+
+        &::after {
+          background-image: $indeterminate-icon;
+        }
+      }
+
+      &:focus ~ .custom-control-label::before {
+        box-shadow: none;
+      }
+
+      &:active ~ .custom-control-label::before {
+        background-color: $active-bg;
+      }
+
+      &:checked ~ .custom-control-label {
+        &::before {
+          background-color: $checked-bg;
+        }
+
+        &::after {
+          background-image: $checked-icon;
+        }
+      }
+    }
+  }
+}

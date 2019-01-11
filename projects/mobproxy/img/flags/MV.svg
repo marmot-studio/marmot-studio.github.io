@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c0003b;
+      }
+
+      .d {
+        fill: #347f3d;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-33.62 -778.89)">
+      <rect class="a" x="33.62" y="778.89" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Maldives</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" x="8.59" y="8.59" width="41.74" height="17.19"/>
+    <g class="b">
+      <path class="e" d="M65.23,790.35a5.73,5.73,0,1,1-5.73,5.73,5.73,5.73,0,0,1,5.73-5.73" transform="translate(-33.62 -778.89)"/>
+      <path class="d" d="M67.38,790.35a5.73,5.73,0,1,1-5.73,5.73,5.73,5.73,0,0,1,5.73-5.73" transform="translate(-33.62 -778.89)"/>
+    </g>
+  </g>
+</svg>

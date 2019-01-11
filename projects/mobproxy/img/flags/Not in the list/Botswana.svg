@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #56baef;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-316.63 -140.8)">
+      <rect class="a" x="316.63" y="140.8" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Botswana</title>
+  <g class="b">
+    <rect class="c" width="58.93" height="12.71"/>
+    <rect class="d" y="12.71" width="58.93" height="1.9"/>
+    <rect class="c" y="21.66" width="58.93" height="12.72"/>
+    <rect class="d" y="19.75" width="58.93" height="1.9"/>
+    <rect y="14.07" width="58.93" height="6.22"/>
+  </g>
+</svg>

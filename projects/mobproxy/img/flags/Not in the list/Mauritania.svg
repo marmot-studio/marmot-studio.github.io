@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #3d9635;
+      }
+
+      .d {
+        fill: #f4c327;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-387.06 -778.89)">
+      <rect class="a" x="387.06" y="778.89" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Mauritania</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <g class="b">
+      <path class="d" d="M416.53,780.68a11.1,11.1,0,1,1-11.1,11.1,11.1,11.1,0,0,1,11.1-11.1" transform="translate(-387.06 -778.89)"/>
+      <path class="c" d="M405.78,788.92a10.74,10.74,0,1,0,21.48,0v-8.59H405.78" transform="translate(-387.06 -778.89)"/>
+      <polygon class="d" points="29.46 5.73 28.14 9.82 30.18 10.48 29.46 5.73"/>
+      <polygon class="d" points="29.46 5.73 30.79 9.82 28.75 10.48 29.46 5.73"/>
+      <polygon class="d" points="33.55 8.7 29.25 8.7 29.25 10.85 33.55 8.7"/>
+      <polygon class="d" points="33.55 8.7 30.07 11.22 28.81 9.49 33.55 8.7"/>
+      <polygon class="d" points="25.38 8.7 28.85 11.22 30.11 9.49 25.38 8.7"/>
+      <polygon class="d" points="25.38 8.7 29.67 8.7 29.67 10.85 25.38 8.7"/>
+      <polygon class="d" points="31.99 13.5 30.66 9.41 28.62 10.08 31.99 13.5"/>
+      <polygon class="d" points="31.99 13.5 28.51 10.98 29.77 9.24 31.99 13.5"/>
+      <polygon class="d" points="26.94 13.5 30.41 10.98 29.15 9.24 26.94 13.5"/>
+      <polygon class="d" points="26.94 13.5 28.27 9.41 30.31 10.08 26.94 13.5"/>
+    </g>
+  </g>
+</svg>

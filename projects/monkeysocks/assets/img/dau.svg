@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
+  <defs>
+    <style>
+      .a {
+        fill: #1c9df3;
+      }
+
+      .b {
+        fill: #f4dbb3;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .c {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>DAU</title>
+  <g>
+    <path class="a" d="M26,52A26,26,0,1,1,52,26,26.02916,26.02916,0,0,1,26,52Z"/>
+    <circle class="b" cx="26" cy="26" r="18"/>
+    <g>
+      <circle cx="25.99999" cy="20.44444" r="3.62963"/>
+      <path class="c" d="M29.63851,24.24691a4.93971,4.93971,0,0,1-7.277,0A3.79182,3.79182,0,0,0,19,28.00176v1.58466a5.61523,5.61523,0,0,0,5.59877,5.59877h2.80246A5.61523,5.61523,0,0,0,33,29.58643V28.00176A3.7918,3.7918,0,0,0,29.63851,24.24691Z"/>
+    </g>
+  </g>
+</svg>

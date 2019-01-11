@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #1f357e;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-739.19 -313.34)">
+      <rect class="a" x="739.19" y="313.34" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Finland</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="16.58 0 16.58 12.35 0 12.35 0 22.02 16.58 22.02 16.58 34.37 26.24 34.37 26.24 22.02 58.92 22.02 58.92 12.35 26.24 12.35 26.24 0 16.58 0"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c40028;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #29457c;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-458.02 -255.23)">
+      <rect class="a" x="458.02" y="255.23" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Czech_Republic</title>
+  <g class="b">
+    <rect class="c" width="58.93" height="34.37"/>
+    <rect class="d" width="58.93" height="17.19"/>
+    <polygon class="e" points="0 0 0 34.37 25.78 17.19 0 0"/>
+  </g>
+</svg>

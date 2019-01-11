@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="Бабаков Сергій, Віктор Лавришев">
+    <meta name="description" content="Офіційний сайт Мелітопольської трикотажної фабрики">
+    <title>Мелітопольська трикотажна фабрика: каталог продукції</title>
+    <!-- Favicon Start -->
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#ff6357">
+    <link rel="shortcut icon" href="img/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="msapplication-config" content="img/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Favicon End -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/icomoon.min.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <link rel="stylesheet" href="css/select2.min.css">
+    <link rel="stylesheet" href="css/main.min.css">
+  </head>
+  <body>
+    <header id="header">
+      <div class="header-top">
+        <div class="container">
+          <div class="collapse" id="collapsibleSearch">
+            <form class="form-inline header-top-form">
+              <input class="form-control form-control-sm mr-3" type="search" placeholder="Введіть пошуковий запит" aria-label="Search">
+              <button class="btn btn-sm btn-default" type="submit">Мені пощастить!</button>
+            </form>
+          </div>
+          <nav class="header-top-navbar">
+            <ul class="nav header-nav-contacts">
+              <li>
+                <a href="tel:+380961664193">+38 (096) 166 41 93</a>
+                <i class="icon icon-earphone"></i>
+              </li>
+              <li>
+                <a href="tel:+380951664193">+38 (095) 166 41 93</a>
+                <i class="icon icon-kyivstar"></i>
+              </li>
+              <li>
+                <a href="tel:+380931664193">+38 (093) 166 41 93</a>
+                <i class="icon icon-mts"></i>
+              </li>
+            </ul>
+            <ul class="nav header-nav-info">
+              <li class="disc">
+                <a href="company.html">Про компанію</a>
+              </li>
+              <li class="disc">
+                <a href="partnership.html">Співпраця</a>
+              </li>
+            </ul>
+            <ul class="nav header-nav-lang">
+              <li class="active">
+                <span>UA</span>
+              </li>
+              <li>
+                <a href="#">RU</a>
+              </li>
+            </ul>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleSearch" aria-controls="collapsibleSearch" aria-expanded="false" aria-label="Toggle search bar">
+              <i class="icon icon-magnifier"></i>
+            </button>
+          </nav>
+        </div>
+      </div>
+      <div class="header-bottom">
+        <div class="container">
+          <nav class="navbar navbar-expand-lg navbar-light p-lg-0">
+            <a href="index.html" class="navbar-brand"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbar">
+              <ul class="navbar-nav navbar-nav-main">
+                <li class="nav-item">
+                  <a href="stores.html" class="nav-link">
+                    <i class="icon icon-bag"></i>
+                    <span class="nav-link-text">Магазини</span>
+                  </a>
+                </li>
+                <li class="nav-item active">
+                  <a href="products.html" class="nav-link">
+                    <i class="icon icon-t-shirt"></i>
+                    <span class="nav-link-text">Продукція</span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="promotions.html" class="nav-link">
+                    <i class="icon icon-percent"></i>
+                    <span class="nav-link-text">Акції</span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="contacts.html" class="nav-link">
+                    <i class="icon icon-contact"></i>
+                    <span class="nav-link-text">Контакти</span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="cart.html" class="nav-link cart">
+                    <div class="cart-state empty">
+                      <div class="cart-amount"></div>
+                      <div>Кошик<br class="d-none d-lg-block"> порожній</div>
+                    </div>
+                    <div class="cart-state not_empty">
+                      <div class="cart-amount">3</div>
+                      <div class="cart-price">товари(-ів),<br class="d-none d-lg-block"> 2000 грн</div>
+                      <div class="cart-order">Оформити<br class="d-none d-lg-block"> замовлення</div>
+                    </div>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="account.html" class="nav-link special">
+                    <i class="icon icon-credit-card"></i>
+                    <span class="nav-link-text">Особистий<br class="d-none d-lg-block"> кабінет</span>
+                  </a>
+                </li>
+              </ul>
+              <form class="form-inline header-bottom-form my-3 d-lg-none">
+                <input class="form-control mr-2" type="text" placeholder="Пошук" aria-label="Search">
+                <button class="btn btn-default" type="submit">
+                  <i class="icon icon-magnifier"></i>
+                </button>
+              </form>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <main id="main">
+      <div class="container py-4">
+        <div class="row row-offcanvas row-offcanvas-left">
+          <div class="col-md-7 col-lg-6 col-xl-5 sidebar-offcanvas">
+            <aside class="sidebar">
+              <ul id="accordion" class="sidebar-nav">
+                <li class="sidebar-nav-item">
+                  <a href="#" class="sidebar-nav-link">
+                    <span class="is-truncated">Нові надходження</span>
+                  </a>
+                </li>
+                <li class="sidebar-nav-item">
+                  <div id="heading-1" class="accordion-header">
+                    <a href="#" class="sidebar-nav-link">
+                      <span class="is-truncated">Жіночий одяг</span>
+                    </a>
+                    <i class="sidebar-nav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1"></i>
+                  </div>
+                  <ul id="collapse-1" class="sidebar-subnav collapse" aria-labelledby="heading-1" data-parent="#accordion">
+                    <li class="sidebar-subnav-item">
+                      <div id="heading-1-1" class="accordion-header">
+                        <span class="sidebar-subnav-text disc active">
+                          <span class="is-truncated">Одяг Casual</span>
+                        </span>
+                        <i class="sidebar-subnav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-1-1" aria-expanded="false" aria-controls="collapse-1-1"></i>
+                      </div>
+                      <ul id="collapse-1-1" class="sidebar-subnav collapse" aria-labelledby="heading-1-1" data-parent="#collapse-1">
+                        <li class="sidebar-subnav-item">
+                          <span class="sidebar-subnav-text disc active">
+                            <span class="is-truncated">Сукні</span>
+                          </span>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Джемпери</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Блузки</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Сарафани</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Туніки</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <div id="heading-1-2" class="accordion-header">
+                        <a href="#" class="sidebar-subnav-link">
+                          <span class="is-truncated">Одяг для відпочинку</span>
+                        </a>
+                        <i class="sidebar-subnav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-1-2" aria-expanded="false" aria-controls="collapse-1-2"></i>
+                      </div>
+                      <ul id="collapse-1-2" class="sidebar-subnav collapse" aria-labelledby="heading-1-2" data-parent="#collapse-1">
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Брюки</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Лосини</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Футболки</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Шорти</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <div id="heading-1-3" class="accordion-header">
+                        <a href="#" class="sidebar-subnav-link">
+                          <span class="is-truncated">Домашній одяг</span>
+                        </a>
+                        <i class="sidebar-subnav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-3"></i>
+                      </div>
+                      <ul id="collapse-1-3" class="sidebar-subnav collapse" aria-labelledby="heading-1-3" data-parent="#collapse-1">
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Комплекти</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Сорочки</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Туніки</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Халати</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Сукні</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <div id="heading-1-4" class="accordion-header">
+                        <a href="#" class="sidebar-subnav-link">
+                          <span class="is-truncated">Жіноча білизна</span>
+                        </a>
+                        <i class="sidebar-subnav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-1-4" aria-expanded="false" aria-controls="collapse-1-4"></i>
+                      </div>
+                      <ul id="collapse-1-4" class="sidebar-subnav collapse" aria-labelledby="heading-1-4" data-parent="#collapse-1">
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Трусики сліп</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Трусики максі</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Трусики стрінги</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Трусики бразиліана</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Майки</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li class="sidebar-nav-item">
+                  <div id="heading-2" class="accordion-header">
+                    <a href="#" class="sidebar-nav-link">
+                      <span class="is-truncated">Чоловічий одяг</span>
+                    </a>
+                    <i class="sidebar-nav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2"></i>
+                  </div>
+                  <ul id="collapse-2" class="sidebar-subnav collapse" aria-labelledby="heading-2" data-parent="#accordion">
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Брюки</span>
+                      </a>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Вишиванки</span>
+                      </a>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Джемпери</span>
+                      </a>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Майки</span>
+                      </a>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Костюми</span>
+                      </a>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Термобілизна</span>
+                      </a>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Футболки</span>
+                      </a>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Шорти</span>
+                      </a>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <a href="#" class="sidebar-subnav-link">
+                        <span class="is-truncated">Труси</span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="sidebar-nav-item">
+                  <div id="heading-3" class="accordion-header">
+                    <a href="#" class="sidebar-nav-link">
+                      <span class="is-truncated">Дитячий одяг</span>
+                    </a>
+                    <i class="sidebar-nav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"></i>
+                  </div>
+                  <ul id="collapse-3" class="sidebar-subnav collapse" aria-labelledby="heading-3" data-parent="#accordion">
+                    <li class="sidebar-subnav-item">
+                      <div id="heading-3-1" class="accordion-header">
+                        <a href="#" class="sidebar-subnav-link">
+                          <span class="is-truncated">Дівчатка</span>
+                        </a>
+                        <i class="sidebar-subnav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-3-1" aria-expanded="false" aria-controls="collapse-3-1"></i>
+                      </div>
+                      <ul id="collapse-3-1" class="sidebar-subnav collapse" aria-labelledby="heading-3-1" data-parent="#collapse-3">
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Комплекти</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Труси</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Майки</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Блузки</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Футболки</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="sidebar-subnav-item">
+                      <div id="heading-3-2" class="accordion-header">
+                        <a href="#" class="sidebar-subnav-link">
+                          <span class="is-truncated">Хлопчики</span>
+                        </a>
+                        <i class="sidebar-subnav-icon icon icon-minus collapsed" data-toggle="collapse" data-target="#collapse-3-2" aria-expanded="false" aria-controls="collapse-3-2"></i>
+                      </div>
+                      <ul id="collapse-3-2" class="sidebar-subnav collapse" aria-labelledby="heading-3-2" data-parent="#collapse-3">
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Комплекти</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Труси</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Майки</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Шорти</span>
+                          </a>
+                        </li>
+                        <li class="sidebar-subnav-item">
+                          <a href="#" class="sidebar-subnav-link">
+                            <span class="is-truncated">Футболки</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+              <form class="product-filters">
+                <fieldset class="mb-4">
+                  <legend>Ціна</legend>
+                  <div class="form-row">
+                    <div class="col-24 mb-3">
+                      <div id="price-range"></div>
+                    </div>
+                    <div class="col-12">
+                      <label class="sr-only" for="price-min">Minimum price</label>
+                      <div class="input-group input-group-sm">
+                        <div class="input-group-prepend">
+                          <div class="input-group-text">Від</div>
+                        </div>
+                        <input type="text" class="form-control" id="price-min">
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <label class="sr-only" for="price-max">Maximum price</label>
+                      <div class="input-group input-group-sm">
+                        <div class="input-group-prepend">
+                          <div class="input-group-text">До</div>
+                        </div>
+                        <input type="text" class="form-control" id="price-max">
+                      </div>
+                    </div>
+                  </div>
+                </fieldset>
+                <fieldset class="mb-4">
+                  <legend>Розміри</legend>
+                  <div class="form-row">
+                    <div class="col-24 mb-3">
+                      <div id="size-range"></div>
+                    </div>
+                    <div class="col-12">
+                      <label class="sr-only" for="size-min">Minimum size</label>
+                      <div class="input-group input-group-sm">
+                        <div class="input-group-prepend">
+                          <div class="input-group-text">Від</div>
+                        </div>
+                        <input type="text" class="form-control" id="size-min">
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <label class="sr-only" for="size-max">Maximum size</label>
+                      <div class="input-group input-group-sm">
+                        <div class="input-group-prepend">
+                          <div class="input-group-text">До</div>
+                        </div>
+                        <input type="text" class="form-control" id="size-max">
+                      </div>
+                    </div>
+                  </div>
+                </fieldset>
+                <fieldset class="mb-4">
+                  <legend class="mb-0">Колір</legend>
+                  <div class="form-row color-container">
+                    <div class="custom-control custom-checkbox" title="Білий">
+                      <input type="checkbox" class="custom-control-input" id="color-white" data-color="#ffffff">
+                      <label class="custom-control-label" for="color-white" aria-label="Білий"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Бірюзовий">
+                      <input type="checkbox" class="custom-control-input" id="color-turquoise" data-color="#40e0d0">
+                      <label class="custom-control-label" for="color-turquoise" aria-label="Бірюзовий"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Жовтий">
+                      <input type="checkbox" class="custom-control-input" id="color-yellow" data-color="#ffff00">
+                      <label class="custom-control-label" for="color-yellow" aria-label="Жовтий"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Зелений">
+                      <input type="checkbox" class="custom-control-input" id="color-green" data-color="#008000">
+                      <label class="custom-control-label" for="color-green" aria-label="Зелений"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Коричневий">
+                      <input type="checkbox" class="custom-control-input" id="color-brown" data-color="#a52a2a">
+                      <label class="custom-control-label" for="color-brown" aria-label="Коричневий"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Рожевий">
+                      <input type="checkbox" class="custom-control-input" id="color-pink" data-color="#ffc0cb">
+                      <label class="custom-control-label" for="color-pink" aria-label="Рожевий"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Синій">
+                      <input type="checkbox" class="custom-control-input" id="color-blue" data-color="#0000ff">
+                      <label class="custom-control-label" for="color-blue" aria-label="Синій"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Сірий">
+                      <input type="checkbox" class="custom-control-input" id="color-gray" data-color="#808080">
+                      <label class="custom-control-label" for="color-gray" aria-label="Сірий"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Фіолетовий">
+                      <input type="checkbox" class="custom-control-input" id="color-violet" data-color="#ee82ee" disabled>
+                      <label class="custom-control-label" for="color-violet" aria-label="Фіолетовий"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Червоний">
+                      <input type="checkbox" class="custom-control-input" id="color-red" data-color="#ff0000">
+                      <label class="custom-control-label" for="color-red" aria-label="Червоний"></label>
+                    </div>
+                    <div class="custom-control custom-checkbox" title="Чорний">
+                      <input type="checkbox" class="custom-control-input" id="color-black" data-color="#000000">
+                      <label class="custom-control-label" for="color-black" aria-label="Чорний"></label>
+                    </div>
+                  </div>
+                </fieldset>
+              </form>
+            </aside>
+          </div>
+          <div class="col-md-17 col-lg-18 col-xl-19">
+            <div class="row">
+              <div class="col">
+                <button type="button" class="btn btn-default btn-sm d-md-none mb-3" data-toggle="offcanvas">Категорія</button>
+                <nav class="breadcrumb">
+                  <a class="breadcrumb-item" href="index.html">Головна</a>
+                  <a class="breadcrumb-item" href="products.html">Продукція</a>
+                  <span class="breadcrumb-item active">Жіночий одяг</span>
+                </nav>
+                <hr class="divider">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xl-16">
+                <h1 class="text-center text-xl-left mb-2 mb-xl-3 ml-2">Домашній одяг</h1>
+              </div>
+              <div class="col-xl-8 d-flex justify-content-end">
+                <form class="mb-3 mr-1" style="margin-top: 0.7rem;">
+                  <label for="sort" class="label">Сортувати:</label>
+                  <select id="sort" class="select style-1">
+                    <option>за ціною</option>
+                    <option>за популярністю</option>
+                    <option>за найменуванням</option>
+                    <option>за новизною</option>
+                  </select>
+                </form>
+              </div>
+            </div>
+            <div class="row no-gutters text-center text-sm-left">
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0001.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-new">New</div>
+                      <div class="product-label product-label-promotion">Акція</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">700 грн</div>
+                    <div class="product-name">Комплект 20101</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0002.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container"></div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">600 грн</div>
+                    <div class="product-name">Комплект 20102</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1 unavailable">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0003.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-promotion">Акція</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-status">Немає в наявності</div>
+                    <div class="product-price">
+                      <span class="product-price-old">800 грн</span>
+                      <span class="product-price-new">500 грн</span>
+                    </div>
+                    <div class="product-name">Комплект 20103</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn disabled" href="#" role="button" aria-disabled="true">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0004.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-promotion">Акція</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">
+                      <span class="product-price-old">800 грн</span>
+                      <span class="product-price-new">500 грн</span>
+                    </div>
+                    <div class="product-name">Комплект 20104</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0005.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-promotion">Акція</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">
+                      <span class="product-price-old">800 грн</span>
+                      <span class="product-price-new">500 грн</span>
+                    </div>
+                    <div class="product-name">Комплект 20105</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0006.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-new">New</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">700 грн</div>
+                    <div class="product-name">Комплект 20106</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0007.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container"></div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">700 грн</div>
+                    <div class="product-name">Комплект 20107</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0008.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-promotion">Акція</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">
+                      <span class="product-price-old">800 грн</span>
+                      <span class="product-price-new">500 грн</span>
+                    </div>
+                    <div class="product-name">Комплект 20108</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0009.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-new">New</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">700 грн</div>
+                    <div class="product-name">Комплект 20109</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1 unavailable">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0010.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container"></div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-status">Немає в наявності</div>
+                    <div class="product-price">800 грн</div>
+                    <div class="product-name">Комплект 20110</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn disabled" href="#" role="button" aria-disabled="true">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0011.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-promotion">Акція</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">
+                      <span class="product-price-old">800 грн</span>
+                      <span class="product-price-new">500 грн</span>
+                    </div>
+                    <div class="product-name">Комплект 20111</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-12 col-lg-8 col-xl-6 p-1">
+                <div class="card card-extra p-1">
+                  <a href="product.html" class="card-img-container mb-2">
+                    <img src="img/products/0012.png" class="img-fluid" alt="Зображення товару">
+                    <div class="product-label-container">
+                      <div class="product-label product-label-promotion">Акція</div>
+                    </div>
+                  </a>
+                  <div class="product-caption">
+                    <div class="product-price">
+                      <span class="product-price-old">800 грн</span>
+                      <span class="product-price-new">500 грн</span>
+                    </div>
+                    <div class="product-name">Комплект 20112</div>
+                  </div>
+                  <div class="card-extra-content text-right">
+                    <a class="btn product-btn" href="#" role="button">Купити</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <nav aria-label="Page navigation">
+                  <ul class="pagination justify-content-center justify-content-lg-end mt-4">
+                    <li class="disabled">
+                      <a href="#" tabindex="-1" aria-label="Previous">
+                        <span aria-hidden="true"><i class="icon icon-chevron-thin-left"></i></span>
+                        <span class="sr-only">Previous</span>
+                      </a>
+                    </li>
+                    <li class="active">
+                      <a href="#">1</a>
+                    </li>
+                    <li>
+                      <a href="#">2</a>
+                    </li>
+                    <li>
+                      <a href="#">3</a>
+                    </li>
+                    <li>
+                      <a href="#" aria-label="Next">
+                        <span aria-hidden="true"><i class="icon icon-chevron-thin-right"></i></span>
+                        <span class="sr-only">Next</span>
+                      </a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button type="button" id="btn-scrolltop" class="btn" title="Вгору">
+        <i class="icon icon-arrow-up"></i>
+      </button>
+    </main>
+    <footer id="footer">
+      <div class="footer-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8">
+              <div class="footer-trademark-container">
+                <div class="footer-trademark">Фабрика <span class="disc">2018</span></div>
+                <div class="d-lg-none">
+                  <span class="mr-2">Змінити мову: </span>
+                  <ul class="nav footer-nav-lang">
+                    <li class="active">
+                      <span>UA</span>
+                    </li>
+                    <li>
+                      <a href="#">RU</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-16">
+              <ul class="nav footer-nav-info-1">
+                <li class="disc">
+                  <a class="footer-nav-link" href="account.html">Особистий кабінет</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 col-lg-6 col-xl-5">
+              <ul class="nav footer-nav-info-2">
+                <li><a class="footer-nav-link" href="#">Доставка та оплата</a></li>
+                <li><a class="footer-nav-link" href="#">Як підібрати розмір</a></li>
+                <li><a class="footer-nav-link" href="#">Як замовити товар</a></li>
+                <li><a class="footer-nav-link" href="#">Умови обміну</a></li>
+                <li><a class="footer-nav-link" href="#">Заявка на повернення</a></li>
+                <li><a class="footer-nav-link" href="#">Співпраця</a></li>
+                <li><a class="footer-nav-link" href="vacancies.html">Вакансії</a></li>
+              </ul>
+            </div>
+            <div class="col-xl-12 d-none d-xl-block">
+              <ul class="nav footer-nav">
+                <li class="footer-nav-item">
+                  <a class="footer-nav-link" href="products.html">Продукція</a>
+                  <ul class="footer-subnav">
+                    <li class="footer-subnav-item">
+                      <a class="footer-subnav-link" href="new-products.html">Нові надходження</a>
+                    </li>
+                    <li class="footer-subnav-item">
+                      <a class="footer-subnav-link" href="for-women.html">Жіночий одяг</a>
+                    </li>
+                    <li class="footer-subnav-item">
+                      <a class="footer-subnav-link" href="for-men.html">Фабрика Casual</a>
+                    </li>
+                    <li class="footer-subnav-item">
+                      <a class="footer-subnav-link" href="for-children.html">Одяг для дому</a>
+                    </li>
+                    <li class="footer-subnav-item">
+                      <a class="footer-subnav-link" href="for-children.html">Одяг для відпочинку</a>
+                    </li>
+                    <li class="footer-subnav-item">
+                      <a class="footer-subnav-link" href="for-children.html">Чоловічий одяг</a>
+                    </li>
+                    <li class="footer-subnav-item">
+                      <a class="footer-subnav-link" href="for-children.html">Дитячий одяг</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="footer-nav-item">
+                  <a class="footer-nav-link" href="promotions.html">Акції</a>
+                  <ul class="footer-subnav">
+                    <li class="footer-subnav-item">
+                      <a class="footer-subnav-link" href="#">Архів акцій</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="footer-nav-item">
+                  <a class="footer-nav-link" href="contacts.html">Контакти</a>
+                  <ul class="footer-subnav-contacts">
+                    <li>
+                      <i class="icon icon-earphone"></i>
+                      <a href="tel:+380961664193">+38 (096) 166 41 93</a>
+                    </li>
+                    <li>
+                      <i class="icon icon-kyivstar"></i>
+                      <a href="tel:+380951664193">+38 (095) 166 41 93</a>
+                    </li>
+                    <li>
+                      <i class="icon icon-mts"></i>
+                      <a href="tel:+380931664193">+38 (093) 166 41 93</a>
+                    </li>
+                    <li>
+                      <i class="icon icon-email"></i>
+                      <a href="mailto:info@mtf.com.ua">info@mtf.com.ua</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-16 col-lg-18 col-xl-7">
+              <div class="social-container">
+                <p class="mb-1">Підпишіться на розсилку:</p>
+                <form class="footer-form mb-3">
+                  <div class="form-row">
+                    <div class="col-16">
+                      <label for="yourEmail" class="sr-only">Email</label>
+                      <input type="email" class="form-control form-control-sm" id="yourEmail" placeholder="Ваш email">
+                    </div>
+                    <div class="col-8">
+                      <button type="submit" class="btn btn-sm btn-default">Вперед!</button>
+                    </div>
+                  </div>
+                </form>
+                <p class="mb-2">Приєднуйтесь до нас в соц. мережах:</p>
+                <div class="social-icons">
+                  <a class="icon icon-facebook" href="#" target="_blank" title="Facebook">
+                    <span class="sr-only">Facebook</span>
+                  </a>
+                  <a class="icon icon-google-plus" href="#" target="_blank" title="Google Plus">
+                    <span class="sr-only">Google Plus</span>
+                  </a>
+                  <a class="icon icon-vk" href="#" target="_blank" title="ВКонтакте">
+                    <span class="sr-only">ВКонтакте</span>
+                  </a>
+                  <a class="icon icon-twitter" href="#" target="_blank" title="Twitter">
+                    <span class="sr-only">Twitter</span>
+                  </a>
+                  <a class="icon icon-telegram" href="#" target="_blank" title="Telegram">
+                    <span class="sr-only">Telegram</span>
+                  </a>
+                  <a class="icon icon-youtube" href="#" target="_blank" title="YouTube">
+                    <span class="sr-only">YouTube</span>
+                  </a>
+                  <a class="icon icon-instagram" href="#" target="_blank" title="Instagram">
+                    <span class="sr-only">Instagram</span>
+                  </a>
+                  <a class="icon icon-pinterest" href="#" target="_blank" title="Pinterest">
+                    <span class="sr-only">Pinterest</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!--[if lte IE 9]>
+      <table class="warning">
+        <tr>
+          <td>
+            <strong>Увага!</strong> Ваш браузер застарів. Для коректного відображення сторінок цього сайта встановіть Internet Explorer 10 версії або вище. <br><a href="http://outdatedbrowser.com/uk" target="_blank">Оновити мій браузер!</a>
+          </td>
+        </tr>
+      </table>
+    <![endif]-->
+    <script src="js/vendor.min.js"></script>
+    <script src="js/colors.js"></script>
+    <script src="js/custom.js"></script>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #c8172b;
+      }
+
+      .d {
+        fill: #fcff2c;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-528.44 -1187.7)">
+      <rect class="a" x="528.44" y="1187.7" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Vietnam</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="33.62 19.63 36.2 27.54 29.46 22.65 22.73 27.54 25.3 19.63 18.56 14.73 26.89 14.73 29.46 6.82 32.03 14.73 40.36 14.73 33.62 19.63"/>
+  </g>
+</svg>

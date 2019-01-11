@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #76aee2;
+      }
+
+      .d {
+        fill: #f4ca27;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-739.39 -1128.18)">
+      <rect class="a" x="739.39" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Tuva</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="0 0 0 34.37 24.01 17.19 0 0"/>
+    <polygon class="e" points="6.36 0 29.28 17.19 5.65 34.37 8.48 34.37 32.47 17.19 9.55 0 6.36 0"/>
+    <polygon class="e" points="0 0 22.91 17.19 0 34.37 2.83 34.37 26.09 17.19 3.18 0 0 0"/>
+    <rect class="e" x="28.41" y="14.32" width="30.51" height="5.73"/>
+    <rect class="c" x="27.2" y="16.23" width="31.73" height="1.91"/>
+  </g>
+</svg>

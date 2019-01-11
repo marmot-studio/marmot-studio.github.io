@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #ea0020;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-104.31 -1009.91)">
+      <rect class="a" x="104.31" y="1009.91" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Principality_of_Sealand</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="0 0 0 31.97 56.93 0 0 0"/>
+    <polygon points="18.86 34.37 58.92 34.37 58.92 12.72 18.86 34.37"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #bc0030;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-458.02 -85.01)">
+      <rect class="a" x="458.02" y="85.01" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Bahrain</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="15.14 0 23.73 3.44 15.14 6.87 23.73 10.31 15.14 13.75 23.73 17.18 15.14 20.63 23.73 24.06 15.14 27.5 23.73 30.94 15.14 34.37 58.92 34.37 58.92 0 15.14 0"/>
+  </g>
+</svg>

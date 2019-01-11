@@ -1,0 +1,95 @@
+@font-face {
+	font-family: 'PF Agora Sans Pro';
+	src: url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Light.woff2') format('woff2'),
+			 url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Light.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Agora Sans Pro';
+	src: url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Regular.woff2') format('woff2'),
+			 url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Agora Sans Pro';
+	src: url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Medium.woff2') format('woff2'),
+			 url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Medium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Agora Sans Pro';
+	src: url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Bold.woff2') format('woff2'),
+			 url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Bulletin Sans Pro';
+	src: url('../fonts/PFBulletinSansPro/PFBulletinSansPro-Light.woff2') format('woff2'),
+			 url('../fonts/PFBulletinSansPro/PFBulletinSansPro-Light.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Bulletin Sans Pro';
+	src: url('../fonts/PFBulletinSansPro/PFBulletinSansPro-Regular.woff2') format('woff2'),
+			 url('../fonts/PFBulletinSansPro/PFBulletinSansPro-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Bulletin Sans Pro';
+	src: url('../fonts/PFBulletinSansPro/PFBulletinSansPro-Medium.woff2') format('woff2'),
+			 url('../fonts/PFBulletinSansPro/PFBulletinSansPro-Medium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Bulletin Sans Pro';
+	src: url('../fonts/PFBulletinSansPro/PFBulletinSansPro-Bold.woff2') format('woff2'),
+			 url('../fonts/PFBulletinSansPro/PFBulletinSansPro-Bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF DinDisplay Pro';
+	src: url('../fonts/PFDinDisplayPro/PFDinDisplayPro-Light.woff2') format('woff2'),
+			 url('../fonts/PFDinDisplayPro/PFDinDisplayPro-Light.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF DinDisplay Pro';
+	src: url('../fonts/PFDinDisplayPro/PFDinDisplayPro-Regular.woff2') format('woff2'),
+			 url('../fonts/PFDinDisplayPro/PFDinDisplayPro-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF DinDisplay Pro';
+	src: url('../fonts/PFDinDisplayPro/PFDinDisplayPro-Medium.woff2') format('woff2'),
+			 url('../fonts/PFDinDisplayPro/PFDinDisplayPro-Medium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF DinDisplay Pro';
+	src: url('../fonts/PFDinDisplayPro/PFDinDisplayPro-Bold.woff2') format('woff2'),
+			 url('../fonts/PFDinDisplayPro/PFDinDisplayPro-Bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}

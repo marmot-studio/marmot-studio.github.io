@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.93 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #325d37;
+      }
+
+      .d {
+        fill: #2d4db6;
+      }
+
+      .e {
+        fill: #f3d02f;
+      }
+
+      .f {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-739.39 -1009.91)">
+      <rect class="a" x="739.39" y="1009.91" width="58.93" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Solomon_Islands</title>
+  <g class="b">
+    <polygon class="c" points="58.93 0 58.93 0 58.93 0 58.93 0"/>
+    <polygon class="c" points="2.96 34.37 58.93 34.37 58.93 1.73 2.96 34.37"/>
+    <polygon class="d" points="0 0 0 32.64 55.96 0 0 0"/>
+    <polygon class="d" points="58.93 0 58.93 0 58.93 0 58.93 0"/>
+    <polygon class="e" points="0 34.37 0 34.37 2.96 34.37 58.93 1.73 58.93 0 58.93 0 0 34.37"/>
+    <polygon class="e" points="55.96 0 0 32.64 0 34.37 58.93 0 58.93 0 55.96 0"/>
+    <polygon class="f" points="10.31 7.65 9.4 10.46 10.8 10.91 10.31 7.65"/>
+    <polygon class="f" points="10.31 7.65 11.22 10.46 9.82 10.91 10.31 7.65"/>
+    <polygon class="f" points="13.11 9.69 10.17 9.69 10.17 11.16 13.11 9.69"/>
+    <polygon class="f" points="13.11 9.69 10.73 11.42 9.87 10.23 13.11 9.69"/>
+    <polygon class="f" points="7.51 9.69 9.89 11.42 10.76 10.23 7.51 9.69"/>
+    <polygon class="f" points="7.51 9.69 10.46 9.69 10.46 11.16 7.51 9.69"/>
+    <polygon class="f" points="12.04 12.98 11.13 10.18 9.73 10.64 12.04 12.98"/>
+    <polygon class="f" points="12.04 12.98 9.66 11.25 10.53 10.06 12.04 12.98"/>
+    <polygon class="f" points="8.58 12.98 10.96 11.25 10.1 10.06 8.58 12.98"/>
+    <polygon class="f" points="8.58 12.98 9.49 10.18 10.89 10.64 8.58 12.98"/>
+    <polygon class="f" points="15.73 13.07 14.82 15.87 16.22 16.33 15.73 13.07"/>
+    <polygon class="f" points="15.73 13.07 16.64 15.87 15.24 16.33 15.73 13.07"/>
+    <polygon class="f" points="18.53 15.11 15.58 15.11 15.58 16.58 18.53 15.11"/>
+    <polygon class="f" points="18.53 15.11 16.15 16.84 15.28 15.65 18.53 15.11"/>
+    <polygon class="f" points="12.93 15.11 15.31 16.84 16.18 15.65 12.93 15.11"/>
+    <polygon class="f" points="12.93 15.11 15.87 15.11 15.87 16.58 12.93 15.11"/>
+    <polygon class="f" points="17.46 18.4 16.55 15.6 15.15 16.05 17.46 18.4"/>
+    <polygon class="f" points="17.46 18.4 15.08 16.67 15.94 15.48 17.46 18.4"/>
+    <polygon class="f" points="14 18.4 16.38 16.67 15.51 15.48 14 18.4"/>
+    <polygon class="f" points="14 18.4 14.91 15.6 16.31 16.05 14 18.4"/>
+    <polygon class="f" points="4.9 13.07 3.98 15.87 5.39 16.33 4.9 13.07"/>
+    <polygon class="f" points="4.9 13.07 5.81 15.87 4.41 16.33 4.9 13.07"/>
+    <polygon class="f" points="7.7 15.11 4.75 15.11 4.75 16.58 7.7 15.11"/>
+    <polygon class="f" points="7.7 15.11 5.31 16.84 4.45 15.65 7.7 15.11"/>
+    <polygon class="f" points="2.09 15.11 4.48 16.84 5.34 15.65 2.09 15.11"/>
+    <polygon class="f" points="2.09 15.11 5.04 15.11 5.04 16.58 2.09 15.11"/>
+    <polygon class="f" points="6.63 18.4 5.72 15.6 4.32 16.05 6.63 18.4"/>
+    <polygon class="f" points="6.63 18.4 4.24 16.67 5.11 15.48 6.63 18.4"/>
+    <polygon class="f" points="3.16 18.4 5.55 16.67 4.68 15.48 3.16 18.4"/>
+    <polygon class="f" points="3.16 18.4 4.08 15.6 5.47 16.05 3.16 18.4"/>
+    <polygon class="f" points="4.9 2.24 3.98 5.04 5.39 5.5 4.9 2.24"/>
+    <polygon class="f" points="4.9 2.24 5.81 5.04 4.41 5.5 4.9 2.24"/>
+    <polygon class="f" points="7.7 4.27 4.75 4.27 4.75 5.75 7.7 4.27"/>
+    <polygon class="f" points="7.7 4.27 5.31 6.01 4.45 4.81 7.7 4.27"/>
+    <polygon class="f" points="2.09 4.27 4.48 6.01 5.34 4.81 2.09 4.27"/>
+    <polygon class="f" points="2.09 4.27 5.04 4.27 5.04 5.75 2.09 4.27"/>
+    <polygon class="f" points="6.63 7.57 5.72 4.77 4.32 5.22 6.63 7.57"/>
+    <polygon class="f" points="6.63 7.57 4.24 5.84 5.11 4.64 6.63 7.57"/>
+    <polygon class="f" points="3.16 7.57 5.55 5.84 4.68 4.64 3.16 7.57"/>
+    <polygon class="f" points="3.16 7.57 4.08 4.77 5.47 5.22 3.16 7.57"/>
+    <polygon class="f" points="15.73 2.24 14.82 5.04 16.22 5.5 15.73 2.24"/>
+    <polygon class="f" points="15.73 2.24 16.64 5.04 15.24 5.5 15.73 2.24"/>
+    <polygon class="f" points="18.53 4.27 15.58 4.27 15.58 5.75 18.53 4.27"/>
+    <polygon class="f" points="18.53 4.27 16.15 6.01 15.28 4.81 18.53 4.27"/>
+    <polygon class="f" points="12.93 4.27 15.31 6.01 16.18 4.81 12.93 4.27"/>
+    <polygon class="f" points="12.93 4.27 15.87 4.27 15.87 5.75 12.93 4.27"/>
+    <polygon class="f" points="17.46 7.57 16.55 4.77 15.15 5.22 17.46 7.57"/>
+    <polygon class="f" points="17.46 7.57 15.08 5.84 15.94 4.64 17.46 7.57"/>
+    <polygon class="f" points="14 7.57 16.38 5.84 15.51 4.64 14 7.57"/>
+    <polygon class="f" points="14 7.57 14.91 4.77 16.31 5.22 14 7.57"/>
+  </g>
+</svg>

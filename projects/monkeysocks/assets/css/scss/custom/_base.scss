@@ -1,0 +1,80 @@
+// Base styles
+html {
+  @include media-breakpoint-down(sm) {
+    font-size: 15px;
+  }
+}
+
+body {
+  position: relative;
+  min-width: 320px;
+  font: {
+    family: $font-family-primary;
+    size: 1.3125rem;
+  }
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+  font-family: $font-family-tertiary;
+}
+
+h1, .h1 {
+  font-weight: 700;
+}
+
+h2, .h2 {
+  font-weight: 600;
+}
+
+@include media-breakpoint-down(xs) {
+  h1, .h1 {
+    font-size: 2.5rem;
+  }
+
+  h2, .h2 {
+    font-size: 2.125rem;
+  }
+
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+a {
+  color: $link-color;
+  transition: color .2s ease-in-out;
+
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+.btn-primary {
+  @include button-variant($btn-bg, $btn-border-color, $btn-hover-bg, $btn-hover-border-color, $btn-active-bg, $btn-active-border-color);
+}
+
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+::-webkit-scrollbar {
+  width: $scrollbar-width;
+}
+
+::-webkit-scrollbar-track {
+  background-color: $scrollbar-track-bg;
+  border: 1px solid $scrollbar-track-border;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: $scrollbar-thumb-bg;
+  border: 1px solid $scrollbar-thumb-border;
+
+  &:hover {
+    background-color: $scrollbar-thumb-hover-bg;
+  }
+}

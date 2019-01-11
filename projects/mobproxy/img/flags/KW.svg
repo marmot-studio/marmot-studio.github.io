@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.31">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #419976;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #bc0030;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1021.71 -605.15)">
+      <rect class="a" x="1021.71" y="605.15" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Kuwait</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="11.4"/>
+    <rect class="d" y="11.4" width="58.92" height="11.46"/>
+    <rect class="e" y="22.86" width="58.92" height="11.46"/>
+    <polygon points="0 0 0 34.31 17.19 22.86 17.19 11.4 0.09 0 0 0"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #4d72c0;
+      }
+
+      .d {
+        fill: #f2dd30;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-1022.15 -1128.18)">
+      <rect class="a" x="1022.15" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Ukraine</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <rect class="d" y="17.19" width="58.92" height="17.19"/>
+  </g>
+</svg>

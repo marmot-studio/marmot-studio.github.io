@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #419e4b;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #f3d02f;
+      }
+
+      .f {
+        fill: #bc0030;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-880.57 -371.66)">
+      <rect class="a" x="880.57" y="371.66" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Guyana</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <polygon class="d" points="0 0 0 34.37 58.92 17.19 0 0"/>
+    <polygon class="e" points="0 32.88 53.8 17.19 0 1.5 0 32.88"/>
+    <polygon points="0 0 0 34.37 29.46 17.19 0 0"/>
+    <polygon class="f" points="0 32.37 26.02 17.19 0 2.01 0 32.37"/>
+  </g>
+</svg>

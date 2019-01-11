@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #d30025;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-387.06 -1128.18)">
+      <rect class="a" x="387.06" y="1128.18" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Tunisia</title>
+  <g class="b">
+    <rect class="c" width="58.92" height="34.37"/>
+    <g class="b">
+      <path class="d" d="M416.53,1136.77a8.59,8.59,0,1,1-8.59,8.59,8.59,8.59,0,0,1,8.59-8.59" transform="translate(-387.06 -1128.18)"/>
+      <path class="c" d="M416.53,1138.92a6.44,6.44,0,1,1-6.45,6.45,6.44,6.44,0,0,1,6.45-6.45" transform="translate(-387.06 -1128.18)"/>
+      <path class="d" d="M418.25,1140.21a5.16,5.16,0,1,1-5.16,5.16,5.16,5.16,0,0,1,5.16-5.16" transform="translate(-387.06 -1128.18)"/>
+      <polyline class="c" points="27.31 17.19 30.99 18.38 31.59 16.54"/>
+      <polyline class="c" points="27.31 17.19 30.99 15.99 31.59 17.83"/>
+      <polyline class="c" points="29.98 13.51 29.98 17.38 31.92 17.38"/>
+      <polyline class="c" points="29.98 13.51 32.26 16.64 30.69 17.77"/>
+      <polyline class="c" points="29.98 20.86 32.26 17.74 30.69 16.6"/>
+      <polyline class="c" points="29.98 20.86 29.98 17 31.92 17"/>
+      <polyline class="c" points="34.31 14.91 30.63 16.11 31.23 17.95"/>
+      <polyline class="c" points="34.31 14.91 32.03 18.04 30.47 16.91"/>
+      <polyline class="c" points="34.31 19.46 32.03 16.33 30.47 17.47"/>
+      <polyline class="c" points="34.31 19.46 30.63 18.26 31.23 16.43"/>
+    </g>
+  </g>
+</svg>

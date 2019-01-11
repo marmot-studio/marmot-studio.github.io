@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.92 34.37">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        fill: #ae0037;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #192967;
+      }
+    </style>
+    <clipPath id="a" transform="translate(-951.01 -663.03)">
+      <rect class="a" x="951.01" y="663.03" width="58.92" height="34.37"/>
+    </clipPath>
+  </defs>
+  <title>Liberia</title>
+  <g class="b">
+    <polygon class="c" points="15.62 0 0 18.75 0 21.88 1.56 23.44 0 25 0 28.12 1.56 29.69 0 31.25 0 34.37 58.92 34.37 58.92 31.25 57.36 29.69 58.92 28.12 58.92 25 57.36 23.44 58.92 21.88 58.92 18.75 57.36 17.19 58.92 15.63 58.92 12.5 57.36 10.94 58.92 9.38 58.92 6.25 57.36 4.69 58.92 3.13 58.92 0 15.62 0"/>
+    <path class="d" d="M951,694.28h58.92v-3.12H951v3.13Zm0-6.25h58.92V684.9H951V688Zm15.62-21.87L951,678.65v3.13h58.92v-3.12h-43.3l-3.12-3.12h46.42V672.4H963.51v-3.12h46.42v-3.12h-43.3Z" transform="translate(-951.01 -663.03)"/>
+    <rect class="e" width="15.62" height="15.63"/>
+    <polygon class="d" points="7.81 3.13 6.36 7.58 9.04 8.45 7.81 3.13"/>
+    <polygon class="d" points="7.81 3.13 9.26 7.58 6.59 8.45 7.81 3.13"/>
+    <polygon class="d" points="12.27 6.36 7.58 6.36 7.58 9.18 12.27 6.36"/>
+    <polygon class="d" points="12.27 6.36 8.48 9.12 6.82 6.84 12.27 6.36"/>
+    <polygon class="d" points="10.57 11.6 9.12 7.15 6.44 8.02 10.57 11.6"/>
+    <polygon class="d" points="10.57 11.6 6.78 8.85 8.43 6.57 10.57 11.6"/>
+    <polygon class="d" points="5.06 11.6 8.85 8.85 7.2 6.57 5.06 11.6"/>
+    <polygon class="d" points="5.06 11.6 6.51 7.15 9.18 8.02 5.06 11.6"/>
+    <polygon class="d" points="3.35 6.36 7.15 9.12 8.8 6.84 3.35 6.36"/>
+    <polygon class="d" points="3.35 6.36 8.04 6.36 8.04 9.18 3.35 6.36"/>
+  </g>
+</svg>
