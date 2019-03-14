@@ -1,0 +1,522 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Оформление банковских карт</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i&amp;subset=cyrillic">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="page bg-light">
+    <header class="page-header page-header-bg">
+      <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+          <div class="logo-center d-lg-none"></div>
+          <a class="navbar-brand" href="index.html">
+            <img class="logo" src="assets/images/logo-ua.svg" alt="Credit 10">
+          </a>
+          <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="navbar-collapse collapse sidenav" id="navbar">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="microloans.html">
+                  <span class="underline">Микрозаймы</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">
+                  <span class="underline">Банковский кредит</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="card.html">
+                  <span class="underline">Оформление банковских карт</span>
+                </a>
+              </li>
+            </ul>
+            <div class="dropdown lang ml-auto">
+              <button class="dropdown-toggle lang-current" type="button" id="lang" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <svg class="icon icon-ua" role="presentation" title="Флаг Украины">
+                  <use xlink:href="assets/images/flags.svg#ua"></use>
+                </svg>
+                <span>Украина (RU)</span>
+              </button>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="lang">
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-ua" role="presentation" title="Флаг Украины">
+                    <use xlink:href="assets/images/flags.svg#ua"></use>
+                  </svg>
+                  <span>Україна (UA)</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-ru" role="presentation" title="Флаг России">
+                    <use xlink:href="assets/images/flags.svg#ru"></use>
+                  </svg>
+                  <span>Россия</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-kz" role="presentation" title="Флаг Казахстана">
+                    <use xlink:href="assets/images/flags.svg#kz"></use>
+                  </svg>
+                  <span>Казахстан</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-dk" role="presentation" title="Флаг Дании">
+                    <use xlink:href="assets/images/flags.svg#dk"></use>
+                  </svg>
+                  <span>Danmark</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-lv" role="presentation" title="Флаг Латвии">
+                    <use xlink:href="assets/images/flags.svg#lv"></use>
+                  </svg>
+                  <span>Latvija</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-mx" role="presentation" title="Флаг Мексики">
+                    <use xlink:href="assets/images/flags.svg#mx"></use>
+                  </svg>
+                  <span>Mexico</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-no" role="presentation" title="Флаг Норвегии">
+                    <use xlink:href="assets/images/flags.svg#no"></use>
+                  </svg>
+                  <span>Norge</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-pl" role="presentation" title="Флаг Польши">
+                    <use xlink:href="assets/images/flags.svg#pl"></use>
+                  </svg>
+                  <span>Polska</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-ro" role="presentation" title="Флаг Румынии">
+                    <use xlink:href="assets/images/flags.svg#ro"></use>
+                  </svg>
+                  <span>Romania</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-fi" role="presentation" title="Флаг Финляндии">
+                    <use xlink:href="assets/images/flags.svg#fi"></use>
+                  </svg>
+                  <span>Suomi</span>
+                </a>
+                <a class="dropdown-item" href="#">
+                  <svg class="icon icon-se" role="presentation" title="Флаг Швеции">
+                    <use xlink:href="assets/images/flags.svg#se"></use>
+                  </svg>
+                  <span>Sverige</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div class="container mt-20 mt-lg-52">
+        <h1 class="mb-20">Оформление банковских карт</h1>
+        <div class="text-center d-sm-none">
+          <button class="btn btn-1 btn-options collapsed" type="button" data-toggle="collapse" data-target="#collapseOptions" aria-expanded="false" aria-controls="collapseOptions">Изменить параметры</button>
+        </div>
+        <div class="collapse" id="collapseOptions">
+          <form class="filter-form">
+            <div class="form-row">
+              <div class="form-group col-md-12 col-lg-9 col-xl-10">
+                <label class="form-control-label" for="amount">Кредитный лимит, грн</label>
+                <div class="position-relative">
+                  <input type="number" class="form-control form-control-lg" id="amount" placeholder="50">
+                  <input class="range range-amount" type="range" min="50" max="200000" value="50">
+                </div>
+                <div class="range-info">
+                  <span>50</span>
+                  <span>200 000</span>
+                </div>
+              </div>
+              <div class="form-group col-md-12 col-lg-9 col-xl-10">
+                <label class="form-control-label" for="term">Льготный период</label>
+                <div class="position-relative">
+                  <input type="number" class="form-control form-control-lg" id="term" placeholder="1">
+                  <input class="range range-term" type="range" min="1" max="1825" value="1">
+                </div>
+                <div class="range-info">
+                  <span>1</span>
+                  <span>2520</span>
+                </div>
+              </div>
+              <div class="col-lg-6 col-xl-4 search-container">
+                <button type="submit" class="btn btn-1 btn-lg search-trigger">Найти</button>
+              </div>
+              <div class="col-24 reset-container">
+                <a class="reset-trigger" href="#">Очистить фильтр</a>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </header>
+    <main class="page-body" role="main">
+      <section class="container">
+        <div class="row mb-20 mb-md-40">
+          <div class="col">
+            <div class="sort-controls">
+              <label class="sort-control-label" for="id">
+                <input class="sort-control" id="id" name="sorting" type="radio" value="id" checked>
+                <span class="sort-control-text">По умолчанию</span>
+              </label>
+              <label class="sort-control-label" for="rating">
+                <input class="sort-control" id="rating" name="sorting" type="radio" value="rating">
+                <span class="sort-control-text">По рейтингу</span>
+              </label>
+              <label class="sort-control-label" for="sum">
+                <input class="sort-control" id="sum" name="sorting" type="radio" value="sum">
+                <span class="sort-control-text">По сумме</span>
+              </label>
+              <label class="sort-control-label" for="period">
+                <input class="sort-control" id="period" name="sorting" type="radio" value="period">
+                <span class="sort-control-text">По сроку</span>
+              </label>
+              <label class="sort-control-label" for="rate">
+                <input class="sort-control" id="rate" name="sorting" type="radio" value="rate">
+                <span class="sort-control-text">По ставке</span>
+              </label>
+            </div>
+          </div>
+        </div>
+        <div class="row mb-20 mb-md-30">
+          <div class="col">
+            <div class="panel-group">
+              <!-- Panel start -->
+              <div class="panel mb-16" data-id="1" data-rating="4,6" data-sum="45000" data-period="55" data-rate="3,50">
+                <div class="panel-body">
+                  <div class="row">
+                    <div class="col-md-6 col-lg-4 d-none d-md-block align-self-xl-center">
+                      <a href="#">
+                        <img class="img-fluid" src="assets/images/privatbank-gold.png" alt="Карта ПриватБанка">
+                      </a>
+                    </div>
+                    <div class="col-md-10 col-lg-14 col-xl-15">
+                      <div class="row h-100 align-items-xl-center">
+                        <div class="col-10 pr-0 pr-sm-14 d-md-none">
+                          <img class="img-fluid" src="assets/images/privatbank-gold.png" alt="Карта ПриватБанка">
+                        </div>
+                        <div class="col-14 col-md-24 col-xl-7 mb-md-16 mb-xl-0">
+                          <img class="img-fluid panel-bank-logo" src="assets/images/privat-karty-gold-universlanaya.png" alt="ПриватБанк">
+                          <div class="panel-card-name mb-8">Кредитная карта Универсальная и Универсальная Gold от ПриватБанк</div>
+                          <div class="d-md-flex flex-xl-column">
+                            <div class="rating-container mr-md-10" data-rating="4,6">
+                              <select class="rating rating-star">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                              </select>
+                            </div>
+                            <a class="panel-link" href="mfo.html">6 отзывов</a>
+                          </div>
+                        </div>
+                        <div class="col-lg-8 col-xl-6 mb-6 mt-14 mt-sm-18 mt-md-0 mb-lg-0">
+                          <div class="panel-info-group">
+                            Кредитный лимит
+                            <span class="panel-info">
+                              до
+                              <span class="font-weight-bold">45 000</span>
+                              грн
+                            </span>
+                          </div>
+                        </div>
+                        <div class="col-lg-8 col-xl-6 mb-6 mb-lg-0">
+                          <div class="panel-info-group">
+                            Льготный период
+                            <span class="panel-info">
+                              <span class="font-weight-bold">1…55</span>
+                              дней
+                            </span>
+                          </div>
+                        </div>
+                        <div class="col-lg-8 col-xl-5 mb-16 mb-md-0">
+                          <div class="panel-info-group">
+                            Ставка
+                            <span class="panel-info">
+                              <span class="font-weight-bold">3,50</span>
+                              %
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-8 col-lg-6 col-xl-5 align-self-md-center">
+                      <a class="panel-action-button" href="#" rel="nofollow" target="_blank">
+                        <span class="text-emphasized">Оформить карту</span>
+                        в
+                        <span class="text-dark">ПриватБанк</span>
+                        <svg class="icon icon-arrow-right" role="presentation" title="Стрелка">
+                          <use xlink:href="assets/images/icons.svg#arrow-right"></use>
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Panel end -->
+              <!-- Panel start -->
+              <div class="panel mb-16" data-id="2" data-rating="4,1" data-sum="57000" data-period="31" data-rate="1,50">
+                <div class="panel-body">
+                  <div class="row">
+                    <div class="col-md-6 col-lg-4 d-none d-md-block align-self-xl-center">
+                      <a href="#">
+                        <img class="img-fluid" src="assets/images/card.svg" alt="Кредитная карта">
+                      </a>
+                    </div>
+                    <div class="col-md-10 col-lg-14 col-xl-15">
+                      <div class="row h-100 align-items-xl-center">
+                        <div class="col-10 pr-0 pr-sm-14 d-md-none">
+                          <img class="img-fluid" src="assets/images/card.svg" alt="Кредитная карта">
+                        </div>
+                        <div class="col-14 col-md-24 col-xl-7 mb-md-16 mb-xl-0">
+                          <img class="img-fluid panel-bank-logo" src="assets/images/finline-credit-cards.png" alt="Finline">
+                          <div class="panel-card-name mb-8">Кредитная карта от Finline</div>
+                          <div class="d-md-flex flex-xl-column">
+                            <div class="rating-container mr-md-10" data-rating="4,1">
+                              <select class="rating rating-star">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                              </select>
+                            </div>
+                            <a class="panel-link" href="mfo.html">4 отзыва</a>
+                          </div>
+                        </div>
+                        <div class="col-lg-8 col-xl-6 mb-6 mt-14 mt-sm-18 mt-md-0 mb-lg-0">
+                          <div class="panel-info-group">
+                            Кредитный лимит
+                            <span class="panel-info">
+                              до
+                              <span class="font-weight-bold">57 000</span>
+                              грн
+                            </span>
+                          </div>
+                        </div>
+                        <div class="col-lg-8 col-xl-6 mb-6 mb-lg-0">
+                          <div class="panel-info-group">
+                            Льготный период
+                            <span class="panel-info">
+                              <span class="font-weight-bold">1…31</span>
+                              дней
+                            </span>
+                          </div>
+                        </div>
+                        <div class="col-lg-8 col-xl-5 mb-16 mb-md-0">
+                          <div class="panel-info-group">
+                            Ставка
+                            <span class="panel-info">
+                              <span class="font-weight-bold">1,50</span>
+                              %
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-8 col-lg-6 col-xl-5 align-self-md-center">
+                      <a class="panel-action-button" href="#" rel="nofollow" target="_blank">
+                        <span class="text-emphasized">Оформить карту</span>
+                        в
+                        <span class="text-dark">Finline</span>
+                        <svg class="icon icon-arrow-right" role="presentation" title="Стрелка">
+                          <use xlink:href="assets/images/icons.svg#arrow-right"></use>
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Panel end -->
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="container">
+        <div class="row">
+          <aside class="col-lg-8 col-xl-7 col-xxl-6 order-lg-1 sidebar">
+            <div class="article-nav sticky mt-12">
+              <h3 class="article-nav-heading">Навигация по странице</h3>
+              <ol class="article-nav-list mb-20">
+                <li>
+                  <a class="scroll-link" href="#h2-1">Карта банка: особенности и&nbsp;нюансы оформления</a>
+                  <ol>
+                    <li>
+                      <a class="scroll-link" href="#h3-1">Банковские пластиковые карты: разновидности</a>
+                    </li>
+                    <li>
+                      <a class="scroll-link" href="#h3-2">Где и&nbsp;как получить банковскую карту</a>
+                    </li>
+                    <li>
+                      <a class="scroll-link" href="#h3-3">Как оплачивать заём на&nbsp;кредитке</a>
+                    </li>
+                    <li>
+                      <a class="scroll-link" href="#h3-4">От&nbsp;чего зависит кредитный лимит</a>
+                    </li>
+                    <li>
+                      <a class="scroll-link" href="#h3-5">Пластиковые банковские карты: некоторые тонкости получения и&nbsp;использования кредита</a>
+                    </li>
+                    <li>
+                      <a class="scroll-link" href="#h3-6">Как быстро заказать банковскую карту через интернет</a>
+                    </li>
+                  </ol>
+                </li>
+              </ol>
+            </div>
+          </aside>
+          <article class="col-lg-16 col-xl-17 col-xxl-18">
+            <h2 id="h2-1">Карта банка: особенности и нюансы оформления</h2>
+            <p>Банковская карта является доступом к&nbsp;личному счету в&nbsp;банке. Такой счет иногда называют карточным, он&nbsp;распространен и&nbsp;удобен для оплаты покупок, денежных переводов. Оформить банковскую карту возможно для использования личных средств, это может быть счет, на&nbsp;который выплачивается зарплата или предоставляются кредитные средства.</p>
+            <img class="img-fluid" src="assets/images/wallet.jpg" alt="Кошелёк">
+            <article class="mt-20">
+              <h3 id="h3-1">Банковские пластиковые карты: разновидности</h3>
+              <ul class="list-with-dash">
+                <li>Дебетовые. Карточки банковские, которые позволяют оплачивать товары и&nbsp;услуги, снимать наличные деньги. Такие счета легко пополняются, часто их&nbsp;используют как зарплатные или накопительные, иногда по&nbsp;условиям банка по&nbsp;карте предусмотрена процентная ставка.</li>
+                <li>Платежные. Используются для оплаты покупок и&nbsp;безналичных расчетов. Главная задача карты&nbsp;&mdash; дать клиенту быстрый доступ к&nbsp;счету, поэтому к&nbsp;ней редко предлагают дополнительные льготы, максимум&nbsp;&mdash; возможность получать небольшие проценты за&nbsp;средства, которые находятся на&nbsp;счету.</li>
+                <li>Кредитные. Выгодные пластиковые карты, позволяющие оплачивать товары и&nbsp;услуги за&nbsp;счет банковских средств. Некоторые банки не&nbsp;взимают комиссию, если клиент рассчитывается картой, а&nbsp;не&nbsp;обналичивает деньги.</li>
+                <li>Мультивалютные. Карты, к&nbsp;которым прикрепляется сразу несколько счетов. Бывает и&nbsp;наоборот&nbsp;&mdash; несколько карт иногда прикрепляются к&nbsp;одному счету.</li>
+                <li>Универсальные. Позволяют расплачиваться за&nbsp;товары и&nbsp;услуги, снимать или пополнять карту, некоторые банки предлагают заемные средства на&nbsp;льготных условиях.</li>
+                <li>Социальные. Всегда бесплатные карты с&nbsp;повышенной процентной ставкой, за&nbsp;обслуживание которых никогда не&nbsp;взимается плата. Основное предназначение&nbsp;&mdash; получение государственных перечислений: стипендий учебных заведений, разных пособий, выплат средств на&nbsp;ребенка, помощи от&nbsp;центра занятости и&nbsp;т.д.</li>
+                <li>Пенсионные. Карты, на&nbsp;которые начисляются пенсионные выплаты. Как правило, обладают рядом льготных условий, среди которых отсутствие комиссии за&nbsp;снятие средств в&nbsp;любом банкомате, повышенная процентная ставка при наличии остатка средств на&nbsp;счету. Некоторые банки начисляют бонусы за&nbsp;расчеты пенсионной картой в&nbsp;магазинах, и&nbsp;не&nbsp;снимают стандартной комиссии с&nbsp;держателя счета при оплате коммунальных услуг.</li>
+                <li>Стипендиальные (студенческие). Необходимы для получения студентом выплаты стипендии. Как правило, учебное заведение заключает договор с&nbsp;конкретным банком, студенческой картой которого должны пользоваться все учащиеся, претендующие на&nbsp;стипендию.</li>
+              </ul>
+              <p>Заказать банковскую карту не&nbsp;сложно, но&nbsp;финансовые организации предоставляют различные условия такой услуги: разнообразны процентные ставки на&nbsp;кредиты, особые условия пользования. Чтобы выгодно получить банковскую карту необходимо выбирать не&nbsp;только условия ее&nbsp;предоставления, но&nbsp;и&nbsp;надежный банк.</p>
+            </article>
+            <article class="mt-20">
+              <h3 id="h3-2">Где и&nbsp;как получить банковскую карту</h3>
+              <p>Чтобы проценты по&nbsp;кредиту удовлетворяли ваши цели и&nbsp;потребности, при выборе банка учитывайте некоторые нюансы.</p>
+              <ul class="list-with-dash">
+                <li>Финансовая организация должна иметь хорошую репутацию среди пользователей&nbsp;&mdash; изучить данные о&nbsp;банке поможет кредитный рейтинг, представленный на&nbsp;нашем сайте.</li>
+                <li>Широта возможностей. Банки предлагают сделать банковскую карту разными способами: лично посетив отделение, заказав карточку по&nbsp;телефону с&nbsp;доставкой на&nbsp;дом. Удобнее и&nbsp;быстрее&nbsp;&mdash; оформить банковскую карту онлайн.</li>
+                <li>Открытость. Условия, на&nbsp;которых предлагается создать банковскую карту, должны быть понятными для пользователя.</li>
+              </ul>
+              <p>Чтобы сделать банковскую карту онлайн, заёмщику необходимо:</p>
+              <ul class="list-with-dash">
+                <li>предоставить паспорт, ИНН;</li>
+                <li>написать заявление лично или отправить заявку на&nbsp;сайте банка, если вы&nbsp;планируете открыть банковскую карту онлайн;</li>
+                <li>дождаться решения&nbsp;&mdash; для его принятия достаточно 15-20&nbsp;минут.</li>
+              </ul>
+            </article>
+            <article class="mt-20">
+              <h3 id="h3-3">Как оплачивать заём на&nbsp;кредитке</h3>
+              <p>Оплачивать задолженность по&nbsp;карте возможно следующими способами:</p>
+              <ul class="list-with-dash">
+                <li>наличными в&nbsp;терминале финансового учреждения, в&nbsp;котором был открыт счет, или в&nbsp;терминалах-партнерах;</li>
+                <li>наличными в&nbsp;отделениях банка;</li>
+                <li>безналичным способом через онлайн-кабинет.</li>
+              </ul>
+            </article>
+            <article class="mt-20">
+              <h3 id="h3-4">От&nbsp;чего зависит кредитный лимит</h3>
+              <p>Сумма доступных заемных средств на&nbsp;счету открытой кредитки различна, иногда она отличается от&nbsp;пожеланий заемщика по&nbsp;следующим причинам:</p>
+              <ul class="list-with-dash">
+                <li>Первичное обращение в&nbsp;банк. Клиентам, которые обратились в&nbsp;финансовое учреждение впервые, предоставляется минимальный лимит на&nbsp;пользование кредитными средствами.</li>
+                <li>Неполный пакет документов. Помимо минимального пакета документов, клиент может предоставить справку о&nbsp;заработной плате или иным образом доказать свою платежеспособность. Убедившись в&nbsp;том, что вам будет чем погашать кредит, банки готовы открыть банковскую карту с&nbsp;лимитом больше заявленного.</li>
+              </ul>
+              <p>Также на&nbsp;лимит влияет кредитная история заемщика, которая может служить причиной лояльного отношения банка или наоборот, отказа в&nbsp;предоставлении карты. Чтобы в&nbsp;будущем наверняка иметь доступ к&nbsp;заемным средствам, рекомендуется избегать просрочек. В&nbsp;случае возникновения финансовых трудностей, следует незамедлительно сообщить об&nbsp;этом в&nbsp;банк, чтобы минимизировать штрафы и&nbsp;пеню.</p>
+            </article>
+            <article class="mt-20">
+              <h3 id="h3-5">Пластиковые банковские карты: некоторые тонкости получения и&nbsp;использования кредита</h3>
+              <ul class="list-with-dash">
+                <li>Льготный период&nbsp;&mdash; программа лояльности, которая предоставляется большинством современных банков. Ее&nbsp;суть заключается в&nbsp;том, что заемщик пользуется кредитными средствами бесплатно определенный период времени (например, 55&nbsp;дней). Если долг погасить в&nbsp;отведенный срок, вам не&nbsp;будут начислены проценты.</li>
+                <li>За&nbsp;снятие средств на&nbsp;кредитных картах от&nbsp;некоторых банков взимается комиссия.</li>
+                <li>Если клиент не&nbsp;оплачивает ежемесячные взносы, начисляется штраф, и&nbsp;остаток средств на&nbsp;карте может быть снять в&nbsp;счет погашения долга.</li>
+                <li>Кредитные каникулы для собственников кредитки возможны, если клиент предоставит доказательные документы, объясняющие финансовые трудности. Каникулы могут быть полными, но&nbsp;лишь на&nbsp;определенный период времени, или частичными, тогда клиенту придется выплачивать проценты по&nbsp;карте.</li>
+                <li>Многие банки предлагают не&nbsp;только получить средства, но&nbsp;и&nbsp;использовать счет как накопительный. Частая процентная ставка для карт&nbsp;&mdash; 10&nbsp;% годовых на&nbsp;остаток собственных средств.</li>
+                <li>Процентная ставка по&nbsp;кредиту также может быть различной. Большинство банков требуют 3&nbsp;&mdash; 5%&nbsp;от&nbsp;суммы задолженности в&nbsp;месяц.</li>
+              </ul>
+            </article>
+            <article class="mt-20">
+              <h3 id="h3-6">Как быстро заказать банковскую карту через интернет</h3>
+              <p>Решив оформить банковскую карту через интернет, необходимо тщательно выбирать финансовое учреждение&nbsp;&mdash; лучшие банки представлены в&nbsp;перечне данного раздела нашего сервиса. Мы&nbsp;подобрали максимально подробную информацию об&nbsp;организациях, чтобы вы&nbsp;могли быстро и&nbsp;выгодно оформить карту.</p>
+              <p>Некоторые организации предлагают банковские карты с&nbsp;бесплатным обслуживанием, другие&nbsp;же выпускают платные варианты, за&nbsp;обслуживание которых необходимо будет платить 20&nbsp;&mdash; 100 грн в&nbsp;месяц. Учетная ставка, возможность использовать овердрафт&nbsp;&mdash; все условия банков описаны в&nbsp;нашем каталоге.</p>
+            </article>
+          </article>
+        </div>
+      </section>
+    </main>
+    <footer class="page-footer page-footer-divider">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-xxl-4">
+            <nav>
+              <ul class="footer-nav">
+                <li class="footer-nav-item">
+                  <a href="#">Микрозаймы</a>
+                </li>
+                <li class="footer-nav-item">
+                  <a href="#">Банковский кредит</a>
+                </li>
+                <li class="footer-nav-item">
+                  <a href="#">Без поручителей</a>
+                </li>
+                <li class="footer-nav-item">
+                  <a href="#">Безработным</a>
+                </li>
+                <li class="footer-nav-item">
+                  <a href="#">Типы кредитов</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="col-lg-5 col-xxl-4">
+            <nav>
+              <ul class="footer-nav">
+                <li class="footer-nav-item">
+                  <a href="#">Кредит онлайн в Харькове</a>
+                </li>
+                <li class="footer-nav-item">
+                  <a href="#">Кредит онлайн в Днепре</a>
+                </li>
+                <li class="footer-nav-item">
+                  <a href="#">Кредит онлайн в Запорожье</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="col-lg-9 col-xxl-12">
+            <nav>
+              <ul class="footer-nav">
+                <li class="footer-nav-item">
+                  <a href="#">Кредиты с плохой кредитной историей</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="col-lg-5 col-xxl-4 mb-16 mb-lg-0 order-lg-first">
+            <nav class="mb-16">
+              <ul class="footer-nav">
+                <li class="footer-nav-item">
+                  <a href="about-us.html">О нас</a>
+                </li>
+              </ul>
+            </nav>
+            <p class="mb-12">©2018 Credit-10</p>
+            <a href="https://www.dmca.com/Protection/Status.aspx?ID=37d854a7-550d-4f6f-8c7d-5dac81301389&refurl=https://credit-10.com/">
+              <img src="assets/images/about-us/DMCA.png" alt="DMCA">
+            </a>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/web-animations.min.js"></script>
+    <script src="assets/js/muuri.min.js"></script>
+    <script src="assets/js/jquery.barrating.min.js"></script>
+    <script src="assets/js/svg4everybody.min.js"></script>
+    <script src="assets/js/headroom.min.js"></script>
+    <script src="assets/js/rangeslider.min.js"></script>
+    <script src="assets/js/stickyfill.min.js"></script>
+    <script src="assets/js/smooth-scroll.polyfills.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/ext.js"></script>
+  </body>
+</html>

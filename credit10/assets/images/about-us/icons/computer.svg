@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .a {
+        fill: #065;
+      }
+
+      .b {
+        fill: #fd0;
+      }
+    </style>
+  </defs>
+  <title>Computer</title>
+  <g>
+    <path class="a" d="M42.42,113H28.36v7H91.64v-7H77.58V98.67H120V0H0V98.67H42.42Zm28.12,0H49.45V98.67H70.55ZM113,7V70.55H7V7ZM7,77.58H113V91.64H7Z"/>
+    <path class="b" d="M105.7,56.48h-7V14.06h-7V56.48h-7V21.09h-7V56.48h-7V28.13h-7V56.48h-7V21.09h-7V56.48h-7V28.13h-7V56.48h-7V35.16h-7V56.48h-7v7H105.7Z"/>
+    <path class="a" d="M56.48,81.09h7v7h-7Z"/>
+  </g>
+</svg>
